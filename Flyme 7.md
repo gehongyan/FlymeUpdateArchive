@@ -3,7 +3,7 @@ Flyme 7 Version Archive
 
 A repository to collect all versions of Flyme.
 
-- [Flyme 7 Version Archive](#Flyme-7-Version-Archive)
+## 目录
 - [数字系列](#数字系列)
   * [16th Plus](#16th-Plus)
   * [16th](#16th)
@@ -44,13 +44,13 @@ A repository to collect all versions of Flyme.
 - [外部链接](#外部链接)
 
 
-# 数字系列
+## 数字系列
 
-## 16th Plus
+### 16th Plus
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -58,11 +58,11 @@ A repository to collect all versions of Flyme.
 |Flyme 7.1.3.2A|16th Plus|2018/9/23|2.11GB (2,266,887,540 Bytes)|2.11GB (2,266,890,240 Bytes)|f2c32153c30a8c4846f063ea03349dce|0b1646e60645fa55e5a0ac71b2508f6ced51738d|https://firmware.meizu.com/Firmware/Flyme/16th_Plus/7.1.3.2/cn/20180919020859/03349dce/update.zip|
 |Flyme 7.1.3.1A|16th Plus|2018/8/20|2.09GB (2,252,992,264 Bytes)|2.09GB (2,252,996,608 Bytes)|e138685131fae5e4e84d6494e38330fb|928bcb249e185ccc1a6f928187c14c9bec2f5033|https://firmware.meizu.com/Firmware/Flyme/16th_Plus/7.1.3.1/cn/20180819105852/e38330fb/update.zip|
 
-## 16th
+### 16th
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -70,31 +70,31 @@ A repository to collect all versions of Flyme.
 |Flyme 7.1.1.2A|16th|2018/9/23|2.10GB (2,261,701,852 Bytes)|2.10GB (2,261,712,896 Bytes)|17a7ed2623ee9eab2b993dc7eeaf1535|5a2bf12619b3be82ab4d6bab8ad7978fd934b5ca|https://firmware.meizu.com/Firmware/Flyme/16th/7.1.1.2/cn/20180918140614/eeaf1535/update.zip|
 |Flyme 7.1.1.1A|16th|2018/8/20|2.09GB (2,247,510,484 Bytes)|2.09GB (2,247,557,120 Bytes)|392fc6477a2c52fefa56478e26cb92b8|9fed35bade27cab821b4800a6a5bcf25a110ee09|https://firmware.meizu.com/Firmware/Flyme/16th/7.1.1.1/cn/20180819105742/26cb92b8/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.1.1.0RU|Meizu 16th 俄罗斯版|2018/10/9|1.70GB (1,832,687,200 Bytes)|1.70GB (1,832,714,240 Bytes)|1db0692354f95d89b3ff21c79968f01a|809aea42b825e1c0d7a01dae06bb64df55140a70|http://dl-res.flymeos.com/Firmware/Flyme/16th/7.1.1.0/ru/20180903225903/9968f01a/update.zip|
 |Flyme 7.1.1.0G|Meizu 16th 国际版|2018/10/9|1.70GB (1,832,708,820 Bytes)|1.70GB (1,832,714,240 Bytes)|4699b3b582a73284f73856e648c238eb|f895a3ebf2503e72a5648e2fc031a0b90086d2df|http://dl-res.flymeos.com/Firmware/Flyme/16th/7.1.1.0/intl/20180903225548/48c238eb/update.zip|
 
-## 16 X
+### 16 X
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.1.4.1A|16 X|2018/10/9|2.08GB (2,241,276,984 Bytes)|2.08GB (2,241,331,200 Bytes)|623c09a1403db40f62b1f26d62a0301c|95962c0846f7889c91de68b4730ef85308864e08|https://firmware.meizu.com/Firmware/Flyme/16/7.1.4.1/cn/20180929095556/62a0301c/update.zip|
 |Flyme 7.1.4.0A|16 X|2018/9/27|2.08GB (2,240,955,179 Bytes)|2.08GB (2,241,003,520 Bytes)|d88afb76d511aa520dfd1b5bcdec4a87|60acd3b7a8b8c6fed459ba6f09a9cf36d51992c6|https://firmware.meizu.com/Firmware/Flyme/16/7.1.4.0/cn/20180911215552/cdec4a87/update.zip|
 
-## 15 Plus
+### 15 Plus
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -104,7 +104,7 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.3.1A|15 Plus|2018/5/9|1.97GB (2,126,452,301 Bytes)|1.98GB (2,126,512,128 Bytes)|5e3f488bad4827fea63b2dc6597707d4|761f18e4ca66aa657501fb6cf742712d53937d9d|https://firmware.meizu.com/Firmware/Flyme/15_Plus/7.0.3.1/cn/20180507194727/597707d4/update.zip|
 |Flyme 7.0.3.0A|15 Plus|2018/4/28|1.97GB (2,125,292,738 Bytes)|1.97GB (2,125,332,480 Bytes)|a4c2548fea99285f239cbd85411776c7|0a0a61b1fe6bcb54ad45a44af5e5bc3f3c0f0089|https://firmware.meizu.com/Firmware/Flyme/15_Plus/7.0.3.0/cn/20180408160154/411776c7/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -114,9 +114,9 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.8.7 beta|15 Plus|2018/8/7|2.13GB (2,289,799,547 Bytes)|2.13GB (2,289,827,840 Bytes)|bd9d8dfaee1c5c9b8105b8d37a296b1e|d9334bce5a03d323b67d057d787d44b877347ae9|https://firmware.meizu.com/Firmware/Flyme/15_Plus/7.8.8.7/cn_beta/20180801143946/7a296b1e/update.zip|
 |Flyme 7.8.7.24 beta|15 Plus|2018/7/24|2.11GB (2,271,717,592 Bytes)|2.11GB (2,271,739,904 Bytes)|527c152b375aa9a8c8b55d53a939ddb2|8123f70613daf4e13eba728412b36435ac5c1b3a|https://firmware.meizu.com/Firmware/Flyme/15_Plus/7.8.7.24/cn_beta/20180723104035/a939ddb2/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -125,11 +125,11 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.3.0G|Meizu 15 Plus 国际版|2018/7/11|1.66GB (1,791,077,487 Bytes)|1.66GB (1,791,098,880 Bytes)|0c209ba0d4b48a5b2ad8b15837713ab4|37d0cae39ee320f90bd50f31868abc9fa1400aaa|http://dl-res.flymeos.com/Firmware/Flyme/15_Plus/7.0.3.0/intl/20180608104230/37713ab4/update.zip|
 |Flyme 7.0.3.0RU|Meizu 15 Plus 俄罗斯版|2018/7/11|1.66GB (1,791,055,800 Bytes)|1.66GB (1,791,098,880 Bytes)|b327f64769e31320c719a707f363cab8|ba7c16817e3b9fe9a4ce00bc783a247b589db376|http://dl-res.flymeos.com/Firmware/Flyme/15_Plus/7.0.3.0/ru/20180608115939/f363cab8/update.zip|
 
-## 15
+### 15
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -138,7 +138,7 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.2.1A|15|2018/5/9|2.16GB (2,327,980,736 Bytes)|2.16GB (2,328,035,328 Bytes)|8a16026f3ad9bab23c709e3532468506|d605e540a88a6f4bcbd1cd9b7843d539a60754c6|http://firmware.meizu.com/Firmware/Flyme/15/7.0.2.1/cn/20180502211545/32468506/update.zip|
 |Flyme 7.0.2.0A|15|2018/4/28|2.16GB (2,324,014,226 Bytes)|2.16GB (2,324,037,632 Bytes)|2710790d7d870f64e5b3b10c6503b9d1|bc9f5af563b22b0ca08ff1c018d2c9e450fb1eff|https://firmware.meizu.com/Firmware/Flyme/15/7.0.2.0/cn/20180330040510/6503b9d1/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -148,9 +148,9 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.8.7 beta|15|2018/8/7|2.25GB (2,421,980,276 Bytes)|2.25GB (2,422,013,952 Bytes)|9cf50a79f8c99e8ec1e9dcf3caec3347|a2c7ec5ff6cf92db3e896ab1e78188a1d2e94441|https://firmware.meizu.com/Firmware/Flyme/15/7.8.8.7/cn_beta/20180801144322/caec3347/update.zip|
 |Flyme 7.8.7.24 beta|15|2018/7/24|2.25GB (2,420,918,628 Bytes)|2.25GB (2,420,965,376 Bytes)|88a3281356c3d0a6adb5c6dd034cf73a|d40f3281626ebfb096987ee834f9fb7fbbac1c64|https://firmware.meizu.com/Firmware/Flyme/15/7.8.7.24/cn_beta/20180723104352/034cf73a/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -159,11 +159,11 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.2.0G|Meizu 15 国际版|2018/6/20|1.82GB (1,963,293,886 Bytes)|1.82GB (1,963,294,720 Bytes)|2e31b8ada8ce4cbce3c31eef542ee8eb|85696ebb3d108686d37309b3fbd331659d225d21|http://dl-res.flymeos.com/Firmware/Flyme/15/7.0.2.0/intl/20180601172212/542ee8eb/update.zip|
 |Flyme 7.0.2.0RU|Meizu 15 俄罗斯版|2018/6/20|1.78GB (1,920,951,453 Bytes)|1.78GB (1,920,991,232 Bytes)|1e6975fc39cd275b3a4d6f4451c8504d|f9a8fa759c9fedcbb4bdf7cfdf54f7c9b6cb5098|http://dl-res.flymeos.com/Firmware/Flyme/15/7.0.2.0/ru/20180522155116/51c8504d/update.zip|
 
-## M15
+### M15
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -172,7 +172,7 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.1.1A|M15|2018/5/7|2.13GB (2,292,338,602 Bytes)|2.13GB (2,292,383,744 Bytes)|feb9b645255b79277db1df8fdbeb60c6|5cad033f646de60f1d9793da23f241b199b16866|https://firmware.meizu.com/Firmware/Flyme/M15/7.0.1.1/cn/20180502164722/dbeb60c6/update.zip|
 |Flyme 7.0.1.0A|M15|2018/4/28|2.13GB (2,292,158,063 Bytes)|2.13GB (2,292,187,136 Bytes)|8543896e0c8142ac9ac618198b9af166|63d39421feb227a10fc0e7be711e3f0180801be8|https://firmware.meizu.com/Firmware/Flyme/M15/7.0.1.0/cn/20180410120341/8b9af166/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -182,9 +182,9 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.8.7 beta|M15|2018/8/7|2.23GB (2,405,127,353 Bytes)|2.23GB (2,405,171,200 Bytes)|fe7bb4f9dfebe6bde59923b36ada5ad8|ec15649d71031351260bfe270c9205dd661bbe48|https://firmware.meizu.com/Firmware/Flyme/M15/7.8.8.7/cn_beta/20180801152507/6ada5ad8/update.zip|
 |Flyme 7.8.7.24 beta|M15|2018/7/24|2.23GB (2,404,099,097 Bytes)|2.23GB (2,404,122,624 Bytes)|53e7a344eed9edbc453a4ef757f34f23|d16b374727c486b2d39d7925fad28ea1039c2142|https://firmware.meizu.com/Firmware/Flyme/M15/7.8.7.24/cn_beta/20180723104522/57f34f23/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -193,13 +193,13 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.1.0G|Meizu 15 Lite 国际版|2018/6/20|1.79GB (1,922,446,080 Bytes)|1.79GB (1,922,449,408 Bytes)|1512077b14889ff55d8826652b327207|7320a7186f401f3bb7723ab3e37a44b573c7287e|http://dl-res.flymeos.com/Firmware/Flyme/15Lite/7.0.1.0/intl/20180524170412/2b327207/update.zip|
 |Flyme 7.0.1.0RU|Meizu 15 Lite 俄罗斯版|2018/6/20|1.79GB (1,922,469,253 Bytes)|1.79GB (1,922,498,560 Bytes)|3531800e553fcec10f94d4fbf4690ff7|b8d57c7d34e662198fb5712d16babe7ce3a7fb8c|http://dl-res.flymeos.com/Firmware/Flyme/M15/7.0.1.0/ru/20180524170221/f4690ff7/update.zip|
 
-# PRO 系列
+## PRO 系列
 
-## PRO 7 Plus
+### PRO 7 Plus
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -207,7 +207,7 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.0.0A 修复版 1|PRO 7 Plus|2018/5/14|1.57GB (1,695,333,889 Bytes)|1.57GB (1,695,350,784 Bytes)|5e1f5db4e82a1318093e53497f881443|6c41941cac2b884fb3bb9c5309e26f1d903f4d95|https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/7.0.0.0/cn/20180511104344/7f881443/update.zip|
 |Flyme 7.0.0.0A|PRO 7 Plus|2018/4/22|1.57GB (1,695,392,544 Bytes)|1.57GB (1,695,416,320 Bytes)|ce5fdd3f022dbead79088dc188566483|bf0376e95e5c4b151654da27ace7d14e7e6b44ee|https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/7.0.0.0/cn/20180419193215/88566483/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -222,32 +222,32 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.22 beta|PRO 7 Plus|2018/5/22|1.59GB (1,709,848,576 Bytes)|1.59GB (1,709,899,776 Bytes)|ba8e5fe292f3c491345b33e07a8e1c34|9a702091e56593d51ea63b0dd60445ae9cc8c5b5|https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/7.8.5.22/cn_beta/20180518143503/7a8e1c34/update.zip|
 |Flyme 7.8.5.8 beta|PRO 7 Plus|2018/5/8|1.59GB (1,712,662,925 Bytes)|1.59GB (1,712,717,824 Bytes)|7e107c9e96cefcd1716c64d1e34eaf65|59d3c70a81329c3b43ef0221b9be5d8670cf9953|https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/7.8.5.8/cn_beta/20180507205349/e34eaf65/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.4.22 daily|PRO 7 Plus|2018/4/22|GB ( Bytes)|GB ( Bytes)|||https://download.meizu.com/Firmware/Flyme/PRO7_Plus/7.8.4.22/cn_daily/20180419194603/8b4005ae/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.0.0G|Meizu PRO 7 Plus 国际版|2018/6/19|1.39GB (1,496,603,559 Bytes)|1.39GB (1,496,645,632 Bytes)|ea9097c0e3e062e4cfa0e5cb28e40d37|fbfbc1c12efcc5c8674bdca15ddc257a218a6b49|http://dl-res.flymeos.com/Firmware/Flyme/PRO7_Plus/7.0.0.0/intl/20180614114810/28e40d37/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.6.7G beta|Meizu PRO 7 Plus 国际版|2018/6/8|1.42GB (1,535,756,725 Bytes)|1.42GB (1,535,770,624 Bytes)|28fde79ee17ba19ffbf14ec2f1047b3a|575f05f5b1e4b36e48434614fd77c64aafa504f0|http://dl-res.flymeos.com/Firmware/Flyme/PRO7_Plus/7.8.6.7/intl_beta/20180607182459/f1047b3a/update.zip|
 |Flyme 7.8.5.30G beta|Meizu PRO 7 Plus 国际版|2018/6/1|1.39GB (1,502,162,467 Bytes)|1.39GB (1,502,216,192 Bytes)|096d5bce49f19de1afd44c9cc6fc0cd9|abf993ab8f19d1bd9e6c3ad3f32f8a7936d6a72f|http://dl-res.flymeos.com/Firmware/Flyme/PRO7_Plus/7.8.5.30/intl_beta/20180530122023/c6fc0cd9/update.zip|
 
-## PRO 7 高配版
+### PRO 7 高配版
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -255,7 +255,7 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.0.0A 修复版 1|PRO 7 高配版|2018/5/14|1.52GB (1,642,002,021 Bytes)|1.52GB (1,642,004,480 Bytes)|5df7158a9096e85baa1d22648bc2447d|14a49bd47dc02e025a123bd6ba10332598015718|https://firmware.meizu.com/Firmware/Flyme/PRO7H/7.0.0.0/cn/20180511104338/8bc2447d/update.zip|
 |Flyme 7.0.0.0A|PRO 7 高配版|2018/4/22|1.52GB (1,642,091,330 Bytes)|1.52GB (1,642,135,552 Bytes)|677c86b55e97feb41b7fd22e7d9b145c|58ea676f168283a868f4e3df9e25e3799909c713|https://firmware.meizu.com/Firmware/Flyme/PRO7H/7.0.0.0/cn/20180419193210/7d9b145c/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -270,16 +270,16 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.22 beta|PRO 7 高配版|2018/5/22|1.54GB (1,663,327,831 Bytes)|1.54GB (1,663,369,216 Bytes)|750e13a045880e165147c012f35910dd|b455e8687c83ffc5f861191d04e2c6914ccf44e4|https://firmware.meizu.com/Firmware/Flyme/PRO7H/7.8.5.22/cn_beta/20180518142730/f35910dd/update.zip|
 |Flyme 7.8.5.8 beta|PRO 7 高配版|2018/5/8|1.54GB (1,655,039,022 Bytes)|1.54GB (1,655,046,144 Bytes)|fe9aace383acadeb5c32578dfd59caf7|d2ebbb576510256e04ce892b72bccca5cfe91145|https://firmware.meizu.com/Firmware/Flyme/PRO7H/7.8.5.8/cn_beta/20180507230439/fd59caf7/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.4.22 daily|PRO 7 高配版|2018/4/22|GB ( Bytes)|GB ( Bytes)|||https://download.meizu.com/Firmware/Flyme/PRO7H/7.8.4.22/cn_daily/20180419194859/d34ba2b8/update.zip|
 == PRO 7 标准版==
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -287,7 +287,7 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.0.0A 修复版 1|PRO 7 标准版|2018/5/14|1.52GB (1,642,888,130 Bytes)|1.52GB (1,642,921,984 Bytes)|b9f91f7cb95e928c00d844aa12dd9f72|3b261813c61d20143aacf97b5bd988c393b21d36|https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.0.0.0/cn/20180511104328/12dd9f72/update.zip|
 |Flyme 7.0.0.0A|PRO 7 标准版|2018/4/22|1.52GB (1,643,026,693 Bytes)|1.52GB (1,643,053,056 Bytes)|adf4e34767ad50dc13e1f0a78d42efaf|ee332e0b12449d5bacea0554dccc631f34bd38a6|https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.0.0.0/cn/20180419193154/8d42efaf/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -302,21 +302,21 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.22 beta|PRO 7 标准版|2018/5/22|1.53GB (1,653,456,055 Bytes)|1.53GB (1,653,473,280 Bytes)|63a55082dcc0ec1957f6f44aeb16fac8|cea51756a9deb336713fbccf02e96510185fb446|https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.8.5.22/cn_beta/20180518143114/eb16fac8/update.zip|
 |Flyme 7.8.5.8 beta|PRO 7 标准版|2018/5/8|1.54GB (1,655,657,098 Bytes)|1.54GB (1,655,701,504 Bytes)|50313d1aa3bad82c70ddd94f5d25abc8|0121ab786abbdd4337220455f2cedcdcee7c8495|https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.8.5.8/cn_beta/20180507205324/5d25abc8/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.4.22 daily|PRO 7 标准版|2018/4/22|GB ( Bytes)|GB ( Bytes)|||https://download.meizu.com/Firmware/Flyme/PRO7S/7.8.4.22/cn_daily/20180419224340/e63f1bc1/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.0.0G|Meizu PRO 7-S 国际版|2018/6/19|1.35GB (1,457,854,817 Bytes)|1.35GB (1,457,913,856 Bytes)|0ecc81bc77591838f03f22a3347626af|65b5ceb93a5de593cfde049b18314b45aa98e42a|http://dl-res.flymeos.com/Firmware/Flyme/PRO7S/7.0.0.0/intl/20180614114704/347626af/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -324,17 +324,17 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.30G beta|Meizu PRO 7-S 国际版|2018/6/1|1.36GB (1,463,599,173 Bytes)|1.36GB (1,463,615,488 Bytes)|49169118917476aa2affee2ee717c133|440afd4c67ff74dc69cb087d92fe5d798d6addae|http://dl-res.flymeos.com/Firmware/Flyme/PRO7S/7.8.5.30/intl_beta/20180530120551/e717c133/update.zip|
 |Flyme 7.8.5.22G beta|Meizu PRO 7-S 国际版|2018/5/29|1.36GB (1,463,217,463 Bytes)|1.36GB (1,463,222,272 Bytes)|e064e6646abed69af7fc44ad3bf15e08|247dd9ec62f71d9faf6dbcef6ec5b7ecc5dbfdd1|http://dl-res.flymeos.com/Firmware/Flyme/PRO7S/7.8.5.22/intl_beta/20180522165802/3bf15e08/update.zip|
 
-## PRO 6 Plus
+### PRO 6 Plus
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.2.0A|PRO 6 Plus|2018/9/13|1.40GB ( Bytes)|GB ( Bytes)|601047fbe979757ff4ca27f52ac0f8da||https://download.meizu.com/Firmware/Flyme/PRO6_Plus/7.0.2.0/cn/20180913165316/2ac0f8da/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -345,38 +345,38 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.22 beta|PRO 6 Plus|2018/5/22|1.37GB (1,471,806,340 Bytes)|1.37GB (1,471,807,488 Bytes)|991cb5f4467ad576c984f125be959b55|6f089ada970831c568a59ce84415e2af973252f9|https://firmware.meizu.com/Firmware/Flyme/PRO6_Plus/7.8.5.22/cn_beta/20180521120032/be959b55/update.zip|
 |Flyme 7.8.5.8 beta|PRO 6 Plus|2018/5/8|1.37GB (1,472,706,484 Bytes)|1.37GB (1,472,724,992 Bytes)|e38e45a3be0908617bd184007021db25|ab812cce43954770e76e7c28b98fb54bf936b092|https://firmware.meizu.com/Firmware/Flyme/PRO6_Plus/7.8.5.8/cn_beta/20180507205057/7021db25/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.4.22 daily|PRO 6 Plus|2018/4/22|GB ( Bytes)|GB ( Bytes)|||https://download.meizu.com/Firmware/Flyme/PRO6_Plus/7.8.4.22/cn_daily/20180421094726/6e383132/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.0G|Meizu PRO 6 Plus 国际版|2018/8/10|904GB (948,133,336 Bytes)|904GB (948,174,848 Bytes)|f6d2a39db338bdfc6a6628baea77a8bb|4fdca034d2fd8ef044eda69199cb69f9d22616b6|http://dl-res.flymeos.com/Firmware/Flyme/PRO6_Plus/7.0.1.0/intl/20180809170412/ea77a8bb/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.16G beta|Meizu PRO 6 Plus 国际版|2018/7/17|904GB (948,701,893 Bytes)|904GB (948,764,672 Bytes)|a282413b7ef65dde854b96027a212eb6|b3680f78903ae6446e4d8c7e97ce577b18906236|http://dl-res.flymeos.com/Firmware/Flyme/PRO6_Plus/7.8.7.16/intl_beta/20180717092513/7a212eb6/update.zip|
 |Flyme 7.8.7.9G beta|Meizu PRO 6 Plus 国际版|2018/7/10|904GB (948,743,328 Bytes)|904GB (948,764,672 Bytes)|10852d1c47742c99ec911509ff012cfe|67121199636b3032278841b620a59e44ee564001|http://dl-res.flymeos.com/Firmware/Flyme/PRO6_Plus/7.8.7.9/intl_beta/20180709170728/ff012cfe/update.zip|
 
-## PRO 6/PRO 6s
+### PRO 6/PRO 6s
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.0A|PRO 6/PRO 6s|2018/6/14|1.49GB (1,604,629,748 Bytes)|1.49GB (1,604,648,960 Bytes)|b538126880e75f31f35eb1659e285175|9e122324bb5ad19659d3c00b4658b5ec474e8db7|https://firmware.meizu.com/Firmware/Flyme/PRO_6/7.0.1.0/cn/20180613195900/9e285175/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -388,17 +388,17 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|PRO 6/PRO 6s|2018/5/8|1.48GB (1,594,072,405 Bytes)|1.48GB (1,594,097,664 Bytes)|c5a0d9cc799f46df1b997aa5b55b3a99|d95a3cd519662fc0460609313dc7bf6e48da0390|https://firmware.meizu.com/Firmware/Flyme/PRO_6/7.8.5.8/cn_beta/20180507205234/b55b3a99/update.zip|
 |Flyme 7.8.4.22 beta|PRO 6s/PRO 6|2018/4/22|1.47GB (1,589,250,512 Bytes)|1.47GB (1,589,313,536 Bytes)|282d7f0e88ec9c4ad3f0b7b4657ceb0f|cd770263b6d02b7362e181ccd682dad97eee4aab|https://firmware.meizu.com/Firmware/Flyme/PRO_6/7.8.4.22/cn_beta/20180419195514/657ceb0f/update.zip|
 
-## PRO 5
+### PRO 5
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.2.0A|PRO 5|2018/8/10|1.27GB (1,369,809,340 Bytes)|1.27GB (1,369,833,472 Bytes)|8253b04e8b6c9d88950ed37ff78aef8b|d33ed8a14e5cdc8b9cc93ad9c75d15a338e7c353|https://firmware.meizu.com/Firmware/Flyme/PRO_5/7.0.2.0/cn/20180809165745/f78aef8b/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -409,25 +409,25 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.22 beta|PRO 5|2018/5/22|1.25GB (1,347,030,147 Bytes)|1.25GB (1,347,092,480 Bytes)|ebd54f2c886751057b4feae32cd86b7e|89ae6c8d929733f0aaf8f4685c5498e8a3f35463|https://firmware.meizu.com/Firmware/Flyme/PRO_5/7.8.5.22/cn_beta/20180521115802/2cd86b7e/update.zip|
 |Flyme 7.8.5.8 beta|PRO 5|2018/5/8|1.25GB (1,349,048,202 Bytes)|1.25GB (1,349,058,560 Bytes)|629d0f2691ec45f05ffd965c2a168f12|6694834b34be1e25709882cc100a8a3ea0026dae|https://firmware.meizu.com/Firmware/Flyme/PRO_5/7.8.5.8/cn_beta/20180507205030/2a168f12/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.4.22 daily|PRO 5|2018/4/22|GB ( Bytes)|GB ( Bytes)|||https://download.meizu.com/Firmware/Flyme/PRO_5/7.8.4.22/cn_daily/20180421094811/f029cb48/update.zip|
 
-# 梦想系列
+## 梦想系列
 
-## MX6
+### MX6
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.0A|MX6|2018/6/14|1.47GB (1,583,867,257 Bytes)|1.47GB (1,583,874,048 Bytes)|6c6a6aad7b992272bad72d4d0ecef480|37340d841a94b5060c70f99a6ea8aaaa53f4c929|https://firmware.meizu.com/Firmware/Flyme/MX6/7.0.1.0/cn/20180613161245/0ecef480/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -439,21 +439,21 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|MX6|2018/5/8|1.46GB (1,574,110,948 Bytes)|1.46GB (1,574,174,720 Bytes)|b0d7545b5c8258c3d45bcce4b17682b8|6ae6191ca81e981776265180bfba6e4369fc0c3c|https://firmware.meizu.com/Firmware/Flyme/MX6/7.8.5.8/cn_beta/20180507205258/b17682b8/update.zip|
 |Flyme 7.8.4.22 beta|MX6|2018/4/22|1.45GB (1,568,557,626 Bytes)|1.45GB (1,568,604,160 Bytes)|7765aa772997c8a86d0e12c6c40da708|94b90f19e0a9fc983f399cf2c6ce50c7384c78e8|https://firmware.meizu.com/Firmware/Flyme/MX6/7.8.4.22/cn_beta/20180419195539/c40da708/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.4.22 daily|MX6|2018/4/22|GB ( Bytes)|GB ( Bytes)|||https://download.meizu.com/Firmware/Flyme/MX6/7.8.4.22/cn_daily/20180419222500/9b240ae2/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.0.0G|Meizu MX6 国际版|2018/6/19|1.05GB (1,133,575,785 Bytes)|1.05GB (1,133,576,192 Bytes)|2e03e39b30e6d467d7dde15e4e4b1140|d2770fa50106dbc23f8da118eaa696e77fa05624|http://dl-res.flymeos.com/Firmware/Flyme/MX6/7.0.0.0/intl/20180614155832/4e4b1140/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -461,61 +461,61 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.30G beta|Meizu MX6 国际版|2018/6/1|1.06GB (1,139,305,811 Bytes)|1.06GB (1,139,343,360 Bytes)|089c5d403b872ef3fd7996d5ea908f73|3702175c1f8460247318cb8900cac8401e70111f|http://dl-res.flymeos.com/Firmware/Flyme/MX6/7.8.5.30/intl_beta/20180530120500/ea908f73/update.zip|
 |Flyme 7.8.5.22G beta|Meizu MX6 国际版|2018/5/29|1.06GB (1,138,955,104 Bytes)|1.06GB (1,139,015,680 Bytes)|131bfd7cf462e5199570fec0b517ac6f|ae6cb937664f3f166403bd5d83b480f4149d9634|http://dl-res.flymeos.com/Firmware/Flyme/MX6/7.8.5.22/intl_beta/20180522163141/b517ac6f/update.zip|
 
-## MX5
+### MX5
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|MX5|2018/7/26|1.03GB (1,113,859,879 Bytes)|1.03GB (1,113,915,392 Bytes)|72e6a343077d98a96a9ce541a1dde06d|a7f3f6748bcc62a8e68cf9c163b6a58da6aeb9ca|https://firmware.meizu.com/Firmware/Flyme/MX5/7.8.7.24/cn_beta/20180724155124/a1dde06d/update.zip|
 
-# V/X系列
+## V/X系列
 
-## V8 标配版
+### V8 标配版
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.1.2.0A|V8 标配版|2018/9/27|1.75GB (1,882,269,624 Bytes)|1.75GB (1,882,324,992 Bytes)|2d1a8a8d5d4958339316e760c75b5c44|c5a30676a714a37b993ec90e2e9c5206ffd40475|https://firmware.meizu.com/Firmware/Flyme/M1816/7.1.2.0/cn/20180919004829/c75b5c44/update.zip|
 
-## V8 高配版
+### V8 高配版
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.1.4.0A|V8 高配版|2018/9/27|1.98GB (2,127,123,039 Bytes)|1.98GB (2,127,167,488 Bytes)|9f2109b5739141537eaecc0b058b637d|2a4b177b96bbc7646209ffcee9456d84200d7f3d|https://firmware.meizu.com/Firmware/Flyme/M1813/7.1.5.0/cn/20180913212948/058b637d/update.zip|
 
-# 魅蓝系列
+## 魅蓝系列
 
-## 魅蓝 X
+### 魅蓝 X
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 X|2018/7/26|1.27GB (1,367,764,363 Bytes)|1.27GB (1,367,801,856 Bytes)|717190dc46844e4688064ead49cef200|99890097f78d49f5d11c4cd6694208ddf296f499|https://firmware.meizu.com/Firmware/Flyme/M3X/7.8.7.24/cn_beta/20180724151303/49cef200/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.6.1 daily|魅蓝 X|2018/6/1|1.29GB (1,394,669,763 Bytes)|1.29GB (1,394,671,616 Bytes)|2b2bc51f59c877f3c1378ad3618a002e|f5d326188c630a7ce5c05ee94d68b7481041ada3|https://firmware.meizu.com/Firmware/Flyme/M3X/7.8.6.1/cn_daily/20180601015520/618a002e/update.zip|
 
-## 魅蓝 E3
+### 魅蓝 E3
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -527,33 +527,33 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.7.10 beta|魅蓝 E3|2018/7/10|2.07GB (2,227,037,097 Bytes)|2.07GB (2,227,044,352 Bytes)|3210037fb6d1ed36fc8c1e7c09741927|0ef0922f43044a1e9a65ef82669fab7eab7d5ad8|https://firmware.meizu.com/Firmware/Flyme/M3E/7.8.7.10/cn_beta/20180709193042/09741927/update.zip|
 |Flyme 7.8.6.25 beta|魅蓝 E3|2018/6/25|2.06GB (2,217,654,573 Bytes)|2.06GB (2,217,672,704 Bytes)|b7377c59dd348e36cc3c89a8f72e065f|d3a6f997914caf14c48e0e43e0321ef99b30f6e3|https://firmware.meizu.com/Firmware/Flyme/M3E/7.8.6.25/cn_beta/20180622194402/f72e065f/update.zip|
 
-## 魅蓝 E2
+### 魅蓝 E2
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 E2|2018/7/26|1.26GB (1,357,877,184 Bytes)|1.26GB (1,357,905,920 Bytes)|b3b7c33886b2bf16f9a1923a9c91aa33|2539795ae16de91f60c63cd4183d78352d04626f|https://firmware.meizu.com/Firmware/Flyme/M2E/7.8.7.24/cn_beta/20180724151112/9c91aa33/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.6.1 daily|魅蓝 E2|2018/6/1|1.28GB (1,384,647,333 Bytes)|1.28GB (1,384,710,144 Bytes)|537fd78e1cf1562e854335e1dff1ba40|5bbb79138ced6d7110ef4b226e067c65b7367caf|https://firmware.meizu.com/Firmware/Flyme/M2E/7.8.6.1/cn_daily/20180601020315/dff1ba40/update.zip|
 
-## 魅蓝 E
+### 魅蓝 E
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.0A|魅蓝 E|2018/6/27|1.34GB (1,441,157,861 Bytes)|1.34GB (1,441,202,176 Bytes)|dd97e2ab354cd545279ada3fe1208d38|0dae90a52d76a1759a670669218325d14eaac179|https://firmware.meizu.com/Firmware/Flyme/M1_E/7.0.1.0/cn/20180627050115/e1208d38/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -563,17 +563,17 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|魅蓝 E|2018/5/8|1.48GB (1,596,508,220 Bytes)|1.48GB (1,596,522,496 Bytes)|b5d8b73c3e9e678ba4644484984336cc|670295372dab75c2ad344b78a3c8cf4c9104391e|https://firmware.meizu.com/Firmware/Flyme/M1_E/7.8.5.8/cn_beta/20180507205459/984336cc/update.zip|
 |Flyme 7.8.4.22 beta|魅蓝 E|2018/4/22|1.47GB (1,583,661,487 Bytes)|1.47GB (1,583,677,440 Bytes)|c16cec32626cf2a7ce262740a0000a3e|bc1c629861f57e4882ac24aaa00bf8f495ed181c|https://firmware.meizu.com/Firmware/Flyme/M1_E/7.8.4.22/cn_beta/20180419205745/a0000a3e/update.zip|
 
-## 魅蓝 Max
+### 魅蓝 Max
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.0A|魅蓝 Max|2018/6/27|1.34GB (1,441,397,492 Bytes)|1.34GB (1,441,398,784 Bytes)|a8a10407bc21331c71674ccae04cc424|24bce9c0a9a1094802791f2a5102b08b6e5ad169|https://firmware.meizu.com/Firmware/Flyme/MAX/7.0.1.0/cn/20180627054348/e04cc424/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -583,21 +583,21 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|魅蓝 Max|2018/5/8|1.49GB (1,605,479,244 Bytes)|1.49GB (1,605,500,928 Bytes)|ae1609339bbe8f5e11fd681fd30afb8e|6434dc32333e71ce3af364b95bed5eeb925286f4|https://firmware.meizu.com/Firmware/Flyme/MAX/7.8.5.8/cn_beta/20180507205516/d30afb8e/update.zip|
 |Flyme 7.8.4.22 beta|魅蓝 Max|2018/4/22|1.48GB (1,592,548,520 Bytes)|1.48GB (1,592,590,336 Bytes)|c3df5af27dc34adbeea8f7a7e5015e3c|bf6365532affd73cf41bd30c083096e16fc3ac80|https://firmware.meizu.com/Firmware/Flyme/MAX/7.8.4.22/cn_beta/20180419210036/e5015e3c/update.zip|
 
-## 魅蓝 metal
+### 魅蓝 metal
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 metal|2018/7/26|1.05GB (1,138,420,313 Bytes)|1.05GB (1,138,425,856 Bytes)|0404b06754dca309b1e645d4c7e886e7|519f425221b1415db599b131e9daf228f4cf5a6f|https://firmware.meizu.com/Firmware/Flyme/m1_metal/7.8.7.24/cn_beta/20180725095348/c7e886e7/update.zip|
 
-## 魅蓝 note6
+### 魅蓝 note6
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -606,7 +606,7 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.1.1A 修复版 1|魅蓝 note6|2018/6/14|2.08GB (2,236,629,237 Bytes)|2.08GB (2,236,678,144 Bytes)|f47882b2b8c1079d9c55681f56484c0f|bf778302d7204cca2a048b3f3a324317172f3f59|https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180613174421/56484c0f/update.zip|
 |Flyme 7.0.1.1A|魅蓝 note6|2018/5/28|2.08GB (2,238,193,776 Bytes)|2.08GB (2,238,251,008 Bytes)|dd2173c205a084c021457de6e5c7fa3f|eb2aa0216ef7f011567f799668bd083ae77c238f|https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180528104437/e5c7fa3f/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -622,33 +622,33 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|魅蓝 note6|2018/5/8|2.07GB (2,224,805,435 Bytes)|2.07GB (2,224,816,128 Bytes)|24a38234d7a4799ac674e4f0bf7a6601|b7ed9eccd0551413676703efdca3c76cd19479b9|https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.5.8/cn_beta/20180507205419/bf7a6601/update.zip|
 |Flyme 7.8.4.22 beta|魅蓝 note6|2018/4/22|2.04GB (2,196,850,314 Bytes)|2.04GB (2,196,897,792 Bytes)|e349fd252bdec09d110cc833c6871c2b|555617188b6becf239f4f28f39309e2dea00e9e6|https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.4.22/cn_beta/20180419195925/c6871c2b/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.0G|Meizu M6 Note 国际版|2018/8/10|1.57GB (1,695,193,679 Bytes)|1.57GB (1,695,219,712 Bytes)|1d34b21a666a10ce15016b726c4434fb|6fd61620860b2248b03be33296ccba034fc21d71|http://dl-res.flymeos.com/Firmware/Flyme/m6_note/7.0.1.0/intl/20180809154728/6c4434fb/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.16G beta|Meizu M6 Note 国际版|2018/7/17|1.57GB (1,695,659,087 Bytes)|1.57GB (1,695,678,464 Bytes)|bdc2c53e95465becf44ccd887b4f09ed|0075820a29527a17aacb8413c1fa11e3197c7cd8|http://dl-res.flymeos.com/Firmware/Flyme/m6_note/7.8.7.16/intl_beta/20180716184139/7b4f09ed/update.zip|
 |Flyme 7.8.7.9G beta|Meizu M6 Note 国际版|2018/7/10|1.57GB (1,695,613,389 Bytes)|1.57GB (1,695,678,464 Bytes)|fec8b4a6aa354167082c01f22633bc43|92ed498cc3ba0ac6dc439d7598a78000e049076f|http://dl-res.flymeos.com/Firmware/Flyme/m6_note/7.8.7.9/intl_beta/20180709170803/2633bc43/update.zip|
 
-## 魅蓝 note5
+### 魅蓝 note5
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.0A 修复版|魅蓝 note5|2018/6/29|1.49GB (1,601,618,096 Bytes)|1.49GB (1,601,622,016 Bytes)|567697489855c41ce2deebe8855691a8|ae07596afa2090fbd1cea2a86ef2c0cfa2a40340|https://firmware.meizu.com/Firmware/Flyme/m5_note/7.0.1.0/cn/20180629145452/855691a8/update.zip|
 |Flyme 7.0.1.0A|魅蓝 note5|2018/6/28|1.49GB (1,601,647,277 Bytes)|1.49GB (1,601,699,840 Bytes)|74f64c57e066ce907edec622aaff1c49|dfac4d273daf26dd397e0d7a41b44771eb034c51|https://firmware.meizu.com/Firmware/Flyme/m5_note/7.0.1.0/cn/20180628171500/aaff1c49/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -658,21 +658,21 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|魅蓝 note5|2018/5/8|1.47GB (1,583,202,869 Bytes)|1.47GB (1,583,218,688 Bytes)|373e935060b5fe603fdd5c493f059879|e3c9cee7ef9f857d58f9d787c6bf1a266f91df31|https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.5.8/cn_beta/20180507205540/3f059879/update.zip|
 |Flyme 7.8.4.22 beta|魅蓝 note5|2018/4/22|1.46GB (1,570,262,326 Bytes)|1.46GB (1,570,308,096 Bytes)|61b1dfb9abadfed3ebbc09a53b67bf13|9113c3305a4cd46c7af9fac5255e0d6ce8226fb8|https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.4.22/cn_beta/20180419195219/3b67bf13/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.4.22 daily|魅蓝 note5|2018/4/22|GB ( Bytes)|GB ( Bytes)|||https://download.meizu.com/Firmware/Flyme/m5_note/7.8.4.22/cn_daily/20180419194101/eaecdc97/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.0.0G|Meizu M5 Note 国际版|2018/6/19|1.02GB (1,096,009,562 Bytes)|1.02GB (1,096,024,064 Bytes)|5acdc88e9ed1ab983c173a6559104ea6|deeee14268bcfdeb5417acda522ba3a544c81300|http://dl-res.flymeos.com/Firmware/Flyme/m5_note/7.0.0.0/intl/20180614114838/59104ea6/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -680,11 +680,11 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.30G beta|Meizu M5 Note 国际版|2018/6/1|1.02GB (1,101,754,429 Bytes)|1.02GB (1,101,791,232 Bytes)|9ee87dc0bbf65ba6d9e9914da8672bba|271e7c47ff569b1966685608dd8dd9d12d7d1ff3|http://dl-res.flymeos.com/Firmware/Flyme/m5_note/7.8.5.30/intl_beta/20180530120319/a8672bba/update.zip|
 |Flyme 7.8.5.22G beta|Meizu M5 Note 国际版|2018/5/29|1.02GB (1,101,365,399 Bytes)|1.02GB (1,101,398,016 Bytes)|1437aa34e746be29eee373bcc1c83509|1836aaea60258176dddf80551360e7e730557bee|http://dl-res.flymeos.com/Firmware/Flyme/m5_note/7.8.5.22/intl_beta/20180522163323/c1c83509/update.zip|
 
-## 魅蓝 note3
+### 魅蓝 note3
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -694,29 +694,29 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|魅蓝 note3|2018/5/8|1.46GB (1,576,820,585 Bytes)|1.46GB (1,576,861,696 Bytes)|0180c435fd855fef90d5fea2f38d0b49|97a99d6100b1475eebbee59c3d56639c6a986b8d|https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.5.8/cn_beta/20180507205605/f38d0b49/update.zip|
 |Flyme 7.8.4.22 beta|魅蓝 note3|2018/4/22|1.45GB (1,563,923,008 Bytes)|1.45GB (1,563,951,104 Bytes)|90e696d9971b69083e34808a61af655c|85877d30c58c9e23b811bd79627befe395c6cec0|https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.4.22/cn_beta/20180420144440/61af655c/update.zip|
 
-## 魅蓝 note2
+### 魅蓝 note2
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 note2|2018/7/26|1.03GB (1,116,188,406 Bytes)|1.03GB (1,116,209,152 Bytes)|6a2611fba02b5fa18a6ea530e18d06f5|c0f29fd7a6f31ff34a0daa8deeff77cb144153e5|https://firmware.meizu.com/Firmware/Flyme/m2_note/7.8.7.24/cn_beta/20180724155411/e18d06f5/update.zip|
 |Flyme 7.8.7.24 beta 电信版|魅蓝 note2 电信版|2018/7/26|1.26GB (1,359,412,919 Bytes)|1.26GB (1,359,413,248 Bytes)|a4ba554fe2e641eae9e553a313aeb6da|cd3b783a7b974b3a102b80fbbbe9e7a91a47b1f5|https://firmware.meizu.com/Firmware/Flyme/m2c_note/7.8.7.24/cn_beta/20180725105902/13aeb6da/update.zip|
 
-## 魅蓝 S6
+### 魅蓝 S6
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.1A|魅蓝 S6|2018/8/8|1.43GB (1,537,597,149 Bytes)|1.43GB (1,537,605,632 Bytes)|110463dc3dad141b3fa9741d153964aa|053427e5981b20ba2f4c20cc817dec966893d99c|https://firmware.meizu.com/Firmware/Flyme/s6/7.0.1.1/cn/20180803164223/153964aa/update.zip|
 |Flyme 7.0.1.0A|魅蓝 S6|2018/6/26|1.40GB (1,512,321,002 Bytes)|1.40GB (1,512,321,024 Bytes)|c761a3f8b1372922e37f0ab797da8253|2271209339c71c1a8afebc27bf59a6b06c12e1f8|https://firmware.meizu.com/Firmware/Flyme/s6/7.0.1.1/cn/20180625213654/97da8253/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -728,41 +728,41 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|魅蓝 S6|2018/5/8|1.38GB (1,485,575,069 Bytes)|1.38GB (1,485,635,584 Bytes)|a996eb047aeeed0b554798ee91cf6e56|612c28332e6cef81be6eb0500725fa813255f46c|https://firmware.meizu.com/Firmware/Flyme/s6/7.8.5.8/cn_beta/20180507205137/91cf6e56/update.zip|
 |Flyme 7.8.4.22 beta|魅蓝 S6|2018/4/22|1.37GB (1,476,353,292 Bytes)|1.37GB (1,476,395,008 Bytes)|051c163c0e9b0a714c4ac68237780a58|4fc05aadd79eb3e211f0a7b03be3b0b57677fbb3|https://firmware.meizu.com/Firmware/Flyme/s6/7.8.4.22/cn_beta/20180419200745/37780a58/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.0G|Meizu M6s 国际版|2018/8/28|1.29GB (1,389,841,479 Bytes)|1.29GB (1,389,842,432 Bytes)|8476dfe216503611e7bfcb3896fe9e41|c12a09a828ddb5344b88507c45021c9aa7c3c998|http://dl-res.flymeos.com/Firmware/Flyme/s6/7.0.1.0/intl/20180828124628/96fe9e41/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.16G beta|Meizu M6s 国际版|2018/7/17|1.29GB (1,388,855,161 Bytes)|1.29GB (1,388,904,448 Bytes)|ba8e7845469aecb5ee22839e4a547452|26ca3fd3cf4a3064501e1ebf94b2b3bc95f2f488|http://dl-res.flymeos.com/Firmware/Flyme/s6/7.8.7.16/intl_beta/20180716194545/4a547452/update.zip|
 
-## 魅蓝 6T
+### 魅蓝 6T
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.9.18 beta|Meizu 6T|2018/9/19|1.88GB (2,027,826,433 Bytes)|1.88GB (2,027,880,448 Bytes)|fe00a5e4c304527b91139f927098bb19|bb862aacb08239269c64b9cf6c28f005ff0a7d04|https://firmware.meizu.com/Firmware/Flyme/M6T/7.8.9.18/cn_beta/20180918173002/7098bb19/update.zip|
 
-## 魅蓝 6
+### 魅蓝 6
 
-**国内版**
+#### 国内版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.1A|魅蓝 6|2018/6/27|1.40GB (1,510,733,223 Bytes)|1.40GB (1,510,735,872 Bytes)|01a673ed214d13e2321aad26cf250527|fcaa21038499ad3f97b7ad66b0b083e4f2ef0d15|https://firmware.meizu.com/Firmware/Flyme/m6/7.0.1.1/cn/20180626181117/cf250527/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
@@ -772,89 +772,89 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|魅蓝 6|2018/5/8|1.40GB (1,507,076,442 Bytes)|1.40GB (1,507,131,392 Bytes)|444c3682e09bf21621baec449d472313|cf6b97ad4107d400414523e1623a5d2d4e57af82|https://firmware.meizu.com/Firmware/Flyme/m6/7.8.5.8/cn_beta/20180507205213/9d472313/update.zip|
 |Flyme 7.8.4.22 beta|魅蓝 6|2018/4/22|1.39GB (1,497,904,059 Bytes)|1.39GB (1,497,956,352 Bytes)|1bb890f0b35a56afddd991863c4438f1|3397abd4ce5239c741d88049011fe0fe58886373|https://firmware.meizu.com/Firmware/Flyme/m6/7.8.4.22/cn_beta/20180419212043/3c4438f1/update.zip|
 
-**海外版**
+#### 海外版
 
-* 稳定版
+##### 稳定版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.0.1.0G|Meizu M6 国际版|2018/8/10|1.34GB (1,449,934,131 Bytes)|1.34GB (1,449,984,000 Bytes)|25bdd0c2f89563e7df1eed3c1219a436|43fd9feb16f02eebc65fa82170d8883df55b4bd7|http://dl-res.flymeos.com/Firmware/Flyme/m6/7.0.1.0/intl/20180809154634/1219a436/update.zip|
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.16G beta|Meizu M6 国际版|2018/7/17|1.35GB (1,450,378,584 Bytes)|1.35GB (1,450,442,752 Bytes)|035b16b8fac36b4251b5b6bd6f2dad17|857cb0c842d533fa4b48449f428a14ff4b17acda|http://dl-res.flymeos.com/Firmware/Flyme/m6/7.8.7.16/intl_beta/20180716184616/6f2dad17/update.zip|
 
-## 魅蓝 5s
+### 魅蓝 5s
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 5s|2018/7/26|1.35GB (1,459,559,999 Bytes)|1.35GB (1,459,617,792 Bytes)|4596f50233d3bcf94131f960074bf0c1|1038bcc33750a8c3a523b50a8f1fe2b9d3573eae|https://firmware.meizu.com/Firmware/Flyme/m5s/7.8.7.24/cn_beta/20180724155315/074bf0c1/update.zip|
 
-**海外版**
+#### 海外版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.8.31G beta|Meizu M5s 国际版|2018/8/31|925GB (970,494,562 Bytes)|925GB (970,522,624 Bytes)|77fe561699470ea28a51cddbf3ec43e4|1078a4cb2104201fd11665237f5caad6cfa3cf2d|http://dl-res.flymeos.com/Firmware/Flyme/m5s/7.8.8.31/intl_beta/20180831113709/f3ec43e4/update.zip|
 
-## 魅蓝 5
+### 魅蓝 5
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 5|2018/7/26|1.41GB (1,517,030,909 Bytes)|1.41GB (1,517,092,864 Bytes)|19739ca6275a85a4c8f86fcb42f1c391|d58638e2f6f30f4f125e33013243655485e519b9|https://firmware.meizu.com/Firmware/Flyme/m5/7.8.7.24/cn_beta/20180724154543/42f1c391/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.6.19 daily|魅蓝 5|2018/6/19|1.41GB (1,514,945,543 Bytes)|1.41GB (1,514,995,712 Bytes)|92c42c14f3e0b45696b3d08a0568cb21|e6a423532df6e2b729e15c3adb6945131f457359|https://firmware.meizu.com/Firmware/Flyme/m5/7.8.6.19/cn_daily/20180619020836/0568cb21/update.zip|
 
-**海外版**
+#### 海外版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.8.31G beta|Meizu M5 国际版|2018/8/31|0.99GB (1,071,206,777 Bytes)|0.99GB (1,071,251,456 Bytes)|26e5d51a2c40ab25f55b52346a5e7fa6|f3f1723b3d9022ba83101976aa672c32e00061f4|http://dl-res.flymeos.com/Firmware/Flyme/m5/7.8.8.31/intl_beta/20180831113654/6a5e7fa6/update.zip|
 
-## 魅蓝 3s
+### 魅蓝 3s
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 3s|2018/7/26|1.43GB (1,537,799,312 Bytes)|1.43GB (1,537,802,240 Bytes)|9a3d58b2780b48edbbd846aae748b9ba|e177f7e69324a85e92644950b844e1001d4e6e48|https://firmware.meizu.com/Firmware/Flyme/m3s/7.8.7.24/cn_beta/20180725093945/e748b9ba/update.zip|
 
-## 魅蓝 3
+### 魅蓝 3
 
-**国内版**
+#### 国内版
 
-* 体验版
+##### 体验版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 3|2018/7/26|1.31GB (1,416,820,355 Bytes)|1.31GB (1,416,822,784 Bytes)|a606275042e68d66f02f19abe8dbf479|77f8f61a38acb7c77591ada52092d6f32e25310f|https://firmware.meizu.com/Firmware/Flyme/m3/7.8.7.24/cn_beta/20180724155256/e8dbf479/update.zip|
 
-* 内测版
+##### 内测版
 
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.6.19 daily|魅蓝 3|2018/6/19|1.30GB (1,401,610,860 Bytes)|1.30GB (1,401,618,432 Bytes)|d0670f788198a5685af4d45452f95a9a|2efd8882a83557b11b3ac5dd1baf82d35891dd4c|https://firmware.meizu.com/Firmware/Flyme/m3/7.8.6.19/cn_daily/20180619021903/52f95a9a/update.zip|
 
-# 外部链接
+## 外部链接
 
 [https://reameizu.com/category/flyme-update/ Flyme Update Archives - ReaMEIZU]
 
