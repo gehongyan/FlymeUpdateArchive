@@ -4,6 +4,7 @@ Flyme 7 Version Archive
 A repository to collect all versions of Flyme.
 
 ## 目录
+
 - [数字系列](#数字系列)
   * [16th Plus](#16th-plus)
   * [16th](#16th)
@@ -42,7 +43,6 @@ A repository to collect all versions of Flyme.
   * [魅蓝 3s](#魅蓝-3s)
   * [魅蓝 3](#魅蓝-3)
 - [外部链接](#外部链接)
-
 
 ## 数字系列
 
