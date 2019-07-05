@@ -5,37 +5,37 @@ A repository to collect all versions of Flyme.
 
 ## 目录
 - [数字系列](#数字系列)
-  * [16th Plus](#16th-Plus)
+  * [16th Plus](#16th-plus)
   * [16th](#16th)
-  * [16 X](#16-X)
-  * [15 Plus](#15-Plus)
+  * [16 X](#16-x)
+  * [15 Plus](#15-plus)
   * [15](#15)
-  * [M15](#M15)
-- [PRO 系列](#PRO-系列)
-  * [PRO 7 Plus](#PRO-7-Plus)
-  * [PRO 7 高配版](#PRO-7-高配版)
-  * [PRO 6 Plus](#PRO-6-Plus)
-  * [PRO 6/PRO 6s](#PRO-6/PRO-6s)
-  * [PRO 5](#PRO-5)
+  * [M15](#m15)
+- [PRO 系列](#pro-系列)
+  * [PRO 7 Plus](#pro-7-plus)
+  * [PRO 7 高配版](#pro-7-高配版)
+  * [PRO 6 Plus](#pro-6-plus)
+  * [PRO 6/PRO 6s](#pro-6pro-6s)
+  * [PRO 5](#pro-5)
 - [梦想系列](#梦想系列)
-  * [MX6](#MX6)
-  * [MX5](#MX5)
+  * [MX6](#mx6)
+  * [MX5](#mx5)
 - [V/X系列](#V/X系列)
   * [V8 标配版](#v8-标配版)
   * [V8 高配版](#v8-高配版)
 - [魅蓝系列](#美兰系列)
   * [魅蓝 X](#魅蓝-x)
-  * [魅蓝 E3](#魅蓝-E3)
-  * [魅蓝 E2](#魅蓝-E2)
-  * [魅蓝 E](#魅蓝-E)
-  * [魅蓝 Max](#魅蓝-Max)
+  * [魅蓝 E3](#魅蓝-e3)
+  * [魅蓝 E2](#魅蓝-e2)
+  * [魅蓝 E](#魅蓝-e)
+  * [魅蓝 Max](#魅蓝-max)
   * [魅蓝 metal](#魅蓝-metal)
   * [魅蓝 note6](#魅蓝-note6)
   * [魅蓝 note5](#魅蓝-note5)
   * [魅蓝 note3](#魅蓝-note3)
   * [魅蓝 note2](#魅蓝-note2)
-  * [魅蓝 S6](#魅蓝-S6)
-  * [魅蓝 6T](#魅蓝-6T)
+  * [魅蓝 S6](#魅蓝-s6)
+  * [魅蓝 6T](#魅蓝-6t)
   * [魅蓝 6](#魅蓝-6)
   * [魅蓝 5s](#魅蓝-5s)
   * [魅蓝 5](#魅蓝-5)
@@ -856,9 +856,4 @@ A repository to collect all versions of Flyme.
 
 ## 外部链接
 
-[https://reameizu.com/category/flyme-update/ Flyme Update Archives - ReaMEIZU]
-
-[[Category:列表]]
-
-[[Category:系统更新]]
-
+[Flyme Update Archives - ReaMEIZU](https://reameizu.com/category/flyme-update/)
