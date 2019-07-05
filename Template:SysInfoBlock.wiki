@@ -26,5 +26,5 @@
 
 <noinclude>
 == 用法 ==
-<nowiki>{{系统下载链接|<系统版本>|<机型>|<年>|<月>|<日>|<大小(GB/MB)>|<大小(Byte)>|<占用空间(GB/MB)>|<占用空间(Byte)>|<MD5>|<SHA1>|<下载链接>}}</nowiki>
+<nowiki>{{SysInfoBlock|<系统版本>|<机型>|<年>|<月>|<日>|<大小(GB/MB)>|<大小(Byte)>|<占用空间(GB/MB)>|<占用空间(Byte)>|<MD5>|<SHA1>|<下载链接>}}</nowiki>
 </noinclude>
