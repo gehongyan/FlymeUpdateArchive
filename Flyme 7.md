@@ -1,6 +1,49 @@
 Flyme 7 Version Archive
 ====
 
+A repository to collect all versions of Flyme.
+
+- [Flyme 7 Version Archive](#Flyme-7-Version-Archive)
+- [数字系列](#数字系列)
+  * [16th Plus](#16th-Plus)
+  * [16th](#16th)
+  * [16 X](#16-X)
+  * [15 Plus](#15-Plus)
+  * [15](#15)
+  * [M15](#M15)
+- [PRO 系列](#PRO-系列)
+  * [PRO 7 Plus](#PRO-7-Plus)
+  * [PRO 7 高配版](#PRO-7-高配版)
+  * [PRO 6 Plus](#PRO-6-Plus)
+  * [PRO 6/PRO 6s](#PRO-6/PRO-6s)
+  * [PRO 5](#PRO-5)
+- [梦想系列](#梦想系列)
+  * [MX6](#MX6)
+  * [MX5](#MX5)
+- [V/X系列](#V/X系列)
+  * [V8 标配版](#v8-标配版)
+  * [V8 高配版](#v8-高配版)
+- [魅蓝系列](#美兰系列)
+  * [魅蓝 X](#魅蓝-x)
+  * [魅蓝 E3](#魅蓝-E3)
+  * [魅蓝 E2](#魅蓝-E2)
+  * [魅蓝 E](#魅蓝-E)
+  * [魅蓝 Max](#魅蓝-Max)
+  * [魅蓝 metal](#魅蓝-metal)
+  * [魅蓝 note6](#魅蓝-note6)
+  * [魅蓝 note5](#魅蓝-note5)
+  * [魅蓝 note3](#魅蓝-note3)
+  * [魅蓝 note2](#魅蓝-note2)
+  * [魅蓝 S6](#魅蓝-S6)
+  * [魅蓝 6T](#魅蓝-6T)
+  * [魅蓝 6](#魅蓝-6)
+  * [魅蓝 5s](#魅蓝-5s)
+  * [魅蓝 5](#魅蓝-5)
+  * [魅蓝 3s](#魅蓝-3s)
+  * [魅蓝 3](#魅蓝-3)
+- [外部链接](#外部链接)
+
+
 # 数字系列
 
 ## 16th Plus
@@ -810,7 +853,6 @@ Flyme 7 Version Archive
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.6.19 daily|魅蓝 3|2018/6/19|1.30GB (1,401,610,860 Bytes)|1.30GB (1,401,618,432 Bytes)|d0670f788198a5685af4d45452f95a9a|2efd8882a83557b11b3ac5dd1baf82d35891dd4c|https://firmware.meizu.com/Firmware/Flyme/m3/7.8.6.19/cn_daily/20180619021903/52f95a9a/update.zip|
-
 
 # 外部链接
 
