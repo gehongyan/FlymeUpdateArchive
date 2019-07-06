@@ -1,4 +1,4 @@
-# Flyme 7 Version Archive
+# Flyme 7 Update Archive
 
 A repository to collect all versions of Flyme.
 
