@@ -1,3 +1,3 @@
-# FlymeVersionArchive
+# FlymeUpdateArchive
 
-A repository to collect all versions of Flyme.
+A repository to collect all updates of Flyme.
