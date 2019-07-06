@@ -20,9 +20,10 @@ A repository to collect all versions of Flyme.
 - [梦想系列](#梦想系列)
   - [MX6](#mx6)
   - [MX5](#mx5)
-- [V/X系列](#V/X系列)
+- [国民系列](#国民系列)
   - [V8 标配版](#v8-标配版)
   - [V8 高配版](#v8-高配版)
+  - [魅族 note8](#魅族-note8)
   - [X8](#x8)
 - [魅蓝系列](#魅蓝系列)
   - [魅蓝 X](#魅蓝-x)
@@ -31,7 +32,6 @@ A repository to collect all versions of Flyme.
   - [魅蓝 E](#魅蓝-e)
   - [魅蓝 Max](#魅蓝-max)
   - [魅蓝 metal](#魅蓝-metal)
-  - [魅族 note8](#魅族-note8)
   - [魅蓝 note6](#魅蓝-note6)
   - [魅蓝 note5](#魅蓝-note5)
   - [魅蓝 note3](#魅蓝-note3)
@@ -489,7 +489,7 @@ A repository to collect all versions of Flyme.
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|MX5|2018/7/26|1.03GB (1,113,859,879 Bytes)|1.03GB (1,113,915,392 Bytes)|72e6a343077d98a96a9ce541a1dde06d|a7f3f6748bcc62a8e68cf9c163b6a58da6aeb9ca|<https://firmware.meizu.com/Firmware/Flyme/MX5/7.8.7.24/cn_beta/20180724155124/a1dde06d/update.zip>|
 
-## V/X系列
+## 国民系列
 
 ### V8 标配版
 
@@ -511,6 +511,16 @@ A repository to collect all versions of Flyme.
 |----|----|----|----|----|----|----|----|
 |Flyme 7.1.5.0A 修复版|V8 高配版|2018/10/18|1.99GB (2,144,456,823 Bytes)|1.99GB (2,144,468,992 Bytes)|53deeb7080244ca3b712a235b3613d21|b52d5f34e74260984d50f4e06a5645c2dc7a7c5d|<https://firmware.meizu.com/Firmware/Flyme/M1813/7.1.5.0/cn/20181011160322/b3613d21/update.zip>|
 |Flyme 7.1.5.0A|V8 高配版|2018/9/27|1.98GB (2,127,123,039 Bytes)|1.98GB (2,127,167,488 Bytes)|9f2109b5739141537eaecc0b058b637d|2a4b177b96bbc7646209ffcee9456d84200d7f3d|<https://firmware.meizu.com/Firmware/Flyme/M1813/7.1.5.0/cn/20180913212948/058b637d/update.zip>|
+
+### 魅族 note8
+
+#### 国内版
+
+##### 稳定版
+
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+|Flyme 7.1.6.0A|魅族 note8|2018/11/1|2.23GB (2,403,598,883 Bytes)|2.23GB (2,403,602,432 Bytes)|5c99d16699d4e91dec268269f8ae07f7|4e832df8d31ddf72e740ca36f37c1d6eb632890f|<https://firmware.meizu.com/Firmware/Flyme/note8/7.1.6.0/cn/20181030112311/f8ae07f7/update.zip>|
 
 ### X8
 
@@ -623,16 +633,6 @@ A repository to collect all versions of Flyme.
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 metal|2018/7/26|1.05GB (1,138,420,313 Bytes)|1.05GB (1,138,425,856 Bytes)|0404b06754dca309b1e645d4c7e886e7|519f425221b1415db599b131e9daf228f4cf5a6f|<https://firmware.meizu.com/Firmware/Flyme/m1_metal/7.8.7.24/cn_beta/20180725095348/c7e886e7/update.zip>|
-
-### 魅族 note8
-
-#### 国内版
-
-##### 稳定版
-
-|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
-|----|----|----|----|----|----|----|----|
-|Flyme 7.1.6.0A|魅族 note8|2018/11/1|2.23GB (2,403,598,883 Bytes)|2.23GB (2,403,602,432 Bytes)|5c99d16699d4e91dec268269f8ae07f7|4e832df8d31ddf72e740ca36f37c1d6eb632890f|<https://firmware.meizu.com/Firmware/Flyme/note8/7.1.6.0/cn/20181030112311/f8ae07f7/update.zip>|
 
 ### 魅蓝 note6
 
