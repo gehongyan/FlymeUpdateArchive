@@ -875,6 +875,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 X|2019/3/7|1.41GB (1,514,640,123 Bytes)|1.41GB (1,514,668,032 Bytes)|b4e5a04955602dfa8f47c9db1679cbac|1bff63ad224f53a72d382f5f6a1cb02fe59cd7b7|<https://firmware.meizu.com/Firmware/Flyme/M3X/6.3.0.3/cn/20190307171808/1679cbac/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 X|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -936,6 +937,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 E2|2019/3/22|1.46GB (1,569,050,976 Bytes)|1.46GB (1,569,062,912 Bytes)|0822400c1410c0950f717c2eb1fee114|96504b3d13d26d0dcdaee1db783d246ec1a4f573|<https://firmware.meizu.com/Firmware/Flyme/M2E/6.3.0.3/cn/20190320170156/b1fee114/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 E2|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -1015,6 +1017,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 U20|2019/3/6|1.27GB (1,367,075,196 Bytes)|1.27GB (1,367,080,960 Bytes)|6ad27c32a5ed178c34c37f2929c3ec96|cfc8876b208b1c664f77536e39bdf521aad16a72|<https://firmware.meizu.com/Firmware/Flyme/U20/6.3.0.3/cn/20190306094359/29c3ec96/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 U20|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -1041,6 +1044,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 U10|2019/3/6|1.39GB (1,497,688,867 Bytes)|1.39GB (1,497,694,208 Bytes)|1369f13c695c8d4896ea3e5fd59bb703|dd654857f259be6aefc494a08b10d8756f530ccb|<https://firmware.meizu.com/Firmware/Flyme/U10/6.3.0.3/cn/20190306094201/d59bb703/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 U10|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -1195,6 +1199,7 @@ A repository to collect all versions of Flyme.
 |Flyme 6.3.0.3A 修复版|魅蓝 note3|2019/3/26|1.40GB (1,504,948,713 Bytes)|1.40GB (1,504,968,704 Bytes)|c98bbeb1c6eab1766bf82ee2fab15ff8|02c99c5c9880cfd5588c65b49c5377725f69ec62|<https://firmware.meizu.com/Firmware/Flyme/m3_note/6.3.0.3/cn/20190325170724/fab15ff8/update.zip>|
 |Flyme 6.3.0.3A|魅蓝 note3|2019/3/22|1.41GB (1,514,377,415 Bytes)|1.41GB (1,514,405,888 Bytes)|752d848ce6d831e0b8e67b8a19e02d0f|6f9d50d942b335bf2e6a6adfcab9994b25352458|<https://firmware.meizu.com/Firmware/Flyme/m3_note/6.3.0.3/cn/20190320165921/19e02d0f/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 note3|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -1216,6 +1221,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 note2|2019/3/6|1.13GB (1,220,433,535 Bytes)|1.13GB (1,220,476,928 Bytes)|3c42eac12b72017c0d85fa87411805d9|c8851247aac7d8ce67362096a0e6ce8d4074158b|<https://firmware.meizu.com/Firmware/Flyme/m2_note/6.3.0.3/cn/20190306093521/411805d9/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 note2|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -1390,6 +1396,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 5s|2019/3/22|1.26GB (1,354,608,378 Bytes)|1.26GB (1,354,629,120 Bytes)|1533df3e4438e772e696e34a0a2c6010|d5ab687d16e38a5c8dd44a52d6b9bd2d818e795c|<https://firmware.meizu.com/Firmware/Flyme/m5s/6.3.0.3/cn/20190320170817/0a2c6010/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 5s|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -1452,6 +1459,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 5|2019/3/22|1.31GB (1,414,851,667 Bytes)|1.31GB (1,414,856,704 Bytes)|ff164e48c89cd9bbd70e2dba40f7b479|b13501b23172f79f544134aa5b77a9adf4e98293|<https://firmware.meizu.com/Firmware/Flyme/m5/6.3.0.3/cn/20190320172427/40f7b479/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 5|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -1491,6 +1499,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 3s|2019/3/22|1.32GB (1,420,807,817 Bytes)|1.32GB (1,420,820,480 Bytes)|832e294d0d3a9c0353161f06e5606d3e|43f789c96c8b6bd1492e5943736d11ff1c58d1af|<https://firmware.meizu.com/Firmware/Flyme/m3s/6.3.0.3/cn/20190315120857/e5606d3e/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 3s|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -1519,6 +1528,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 3|2019/3/22|1.21GB (1,310,085,747 Bytes)|1.21GB (1,310,130,176 Bytes)|81607e816e7c9c4b569afeb0352c73d7|1deecb71378d37284c3ae2dfa22ccb68adf07c31|<https://firmware.meizu.com/Firmware/Flyme/m3/6.3.0.3/cn/20190315141242/352c73d7/update.zip>|
 -->
+
 ##### 体验版
 <!--魅蓝 3|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
@@ -1542,6 +1552,7 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.3.0.3A|魅蓝 2|2019/3/6|1.10GB (1,188,337,364 Bytes)|1.10GB (1,188,364,288 Bytes)|2dd0f8017b43a7afb42a94958cedc93c|720aed66b1f109d87bf43d3938845121b28c26e7|<https://firmware.meizu.com/Firmware/Flyme/m2/6.3.0.3/cn/20190306093057/8cedc93c/update.zip>|
 -->
+
 #### 海外版
 
 ##### 稳定版
