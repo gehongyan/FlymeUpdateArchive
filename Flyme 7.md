@@ -37,6 +37,8 @@ A repository to collect all versions of Flyme.
   - [魅蓝 note5](#魅蓝-note5)
   - [魅蓝 note3](#魅蓝-note3)
   - [魅蓝 note2](#魅蓝-note2)
+  - [魅蓝 8](#魅蓝-8)
+  - [魅蓝 8c](#魅蓝-8c)
   - [魅蓝 S6](#魅蓝-s6)
   - [魅蓝 6T](#魅蓝-6t)
   - [魅蓝 6](#魅蓝-6)
@@ -44,6 +46,7 @@ A repository to collect all versions of Flyme.
   - [魅蓝 5](#魅蓝-5)
   - [魅蓝 3s](#魅蓝-3s)
   - [魅蓝 3](#魅蓝-3)
+  - [魅蓝 2](#魅蓝-2)
 - [外部链接](#外部链接)
 
 ## 数字系列
@@ -630,6 +633,14 @@ A repository to collect all versions of Flyme.
 |Flyme 7.1.7.1A|X8|2018/11/28|2.20GB (2,368,736,136 Bytes)|2.20GB (2,368,798,720 Bytes)|5a1545d5fb944c83e922b9f6c488d370|7c92bbb28ef10a1a95c38cd158e375a796a7b15f|<https://firmware.meizu.com/Firmware/Flyme/M1852/7.1.7.1/cn/20181123181435/c488d370/update.zip>|
 |Flyme 7.1.7.0A|X8|2018/10/26|2.17GB (2,340,274,038 Bytes)|2.17GB (2,340,274,176 Bytes)|bffd8e2ac3cdc36cd083014ba6ed967e|e71cda077f554f3382e9fa27bbdec9e50b018df4|<https://firmware.meizu.com/Firmware/Flyme/M1852/7.1.7.0/cn/20181020130010/a6ed967e/update.zip>|
 
+#### 海外版
+
+##### 稳定版
+
+<!--X8|海外版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+
 ## 魅蓝系列
 
 ### 魅蓝 X
@@ -889,12 +900,28 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.7.24 beta|魅蓝 note2|2018/7/26|1.03GB (1,116,188,406 Bytes)|1.03GB (1,116,209,152 Bytes)|6a2611fba02b5fa18a6ea530e18d06f5|c0f29fd7a6f31ff34a0daa8deeff77cb144153e5|<https://firmware.meizu.com/Firmware/Flyme/m2_note/7.8.7.24/cn_beta/20180724155411/e18d06f5/update.zip>|
 |Flyme 7.8.7.24 beta 电信版|魅蓝 note2 电信版|2018/7/26|1.26GB (1,359,412,919 Bytes)|1.26GB (1,359,413,248 Bytes)|a4ba554fe2e641eae9e553a313aeb6da|cd3b783a7b974b3a102b80fbbbe9e7a91a47b1f5|<https://firmware.meizu.com/Firmware/Flyme/m2c_note/7.8.7.24/cn_beta/20180725105902/13aeb6da/update.zip>|
 
-### 魅蓝 M8c
+### 魅蓝 8
+
+#### 国内版
+
+##### 稳定版
+<!--魅蓝 8|国内版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
 
 #### 海外版
 
 ##### 稳定版
-<!--魅蓝 M8c|海外版|稳定版-->
+<!--魅蓝 8|海外版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+
+### 魅蓝 8c
+
+#### 海外版
+
+##### 稳定版
+<!--魅蓝 8c|海外版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 6.3.5.1RU|Meizu M8c 俄罗斯版|2018/11/13|1.40GB (1,510,853,755 Bytes)|1.40GB (1,510,866,944 Bytes)|d68f4edb47ce376c6a34184d9916a216|c8839e88ffa23567d2d169a5c96898956f66df57|<http://dl-res.flymeos.com/Firmware/Flyme/M6c/6.3.5.1/ru/20181022141512/9916a216/update.zip>|
@@ -954,6 +981,13 @@ A repository to collect all versions of Flyme.
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.9.18 beta|Meizu 6T|2018/9/19|1.88GB (2,027,826,433 Bytes)|1.88GB (2,027,880,448 Bytes)|fe00a5e4c304527b91139f927098bb19|bb862aacb08239269c64b9cf6c28f005ff0a7d04|<https://firmware.meizu.com/Firmware/Flyme/M6T/7.8.9.18/cn_beta/20180918173002/7098bb19/update.zip>|
+
+#### 海外版
+
+##### 稳定版
+<!--魅蓝 6T|海外版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
 
 ### 魅蓝 6
 
@@ -1063,6 +1097,14 @@ A repository to collect all versions of Flyme.
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 3s|2018/7/26|1.43GB (1,537,799,312 Bytes)|1.43GB (1,537,802,240 Bytes)|9a3d58b2780b48edbbd846aae748b9ba|e177f7e69324a85e92644950b844e1001d4e6e48|<https://firmware.meizu.com/Firmware/Flyme/m3s/7.8.7.24/cn_beta/20180725093945/e748b9ba/update.zip>|
 
+#### 海外版
+
+##### 稳定版
+<!--魅蓝 3s|海外版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+
+
 ### 魅蓝 3
 
 #### 国内版
@@ -1083,6 +1125,22 @@ A repository to collect all versions of Flyme.
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.6.19 daily|魅蓝 3|2018/6/19|1.30GB (1,401,610,860 Bytes)|1.30GB (1,401,618,432 Bytes)|d0670f788198a5685af4d45452f95a9a|2efd8882a83557b11b3ac5dd1baf82d35891dd4c|<https://firmware.meizu.com/Firmware/Flyme/m3/7.8.6.19/cn_daily/20180619021903/52f95a9a/update.zip>|
+
+### 魅蓝 2
+
+#### 国内版
+
+##### 稳定版
+<!--魅蓝 2|国内版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+
+#### 海外版
+
+##### 稳定版
+<!--魅蓝 2|海外版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
 
 ## 外部链接
 
