@@ -24,6 +24,7 @@ A repository to collect all versions of Flyme.
 - [国民系列](#国民系列)
   - [V8 标配版](#v8-标配版)
   - [V8 高配版](#v8-高配版)
+  - [魅族 note9](#魅族-note9)
   - [魅族 note8](#魅族-note8)
   - [X8](#x8)
 - [魅蓝系列](#魅蓝系列)
@@ -32,6 +33,8 @@ A repository to collect all versions of Flyme.
   - [魅蓝 E2](#魅蓝-e2)
   - [魅蓝 E](#魅蓝-e)
   - [魅蓝 Max](#魅蓝-max)
+  - [魅蓝 U20](#魅蓝-u20)
+  - [魅蓝 U10](#魅蓝-u10)
   - [魅蓝 metal](#魅蓝-metal)
   - [魅蓝 note6](#魅蓝-note6)
   - [魅蓝 note5](#魅蓝-note5)
@@ -628,6 +631,22 @@ A repository to collect all versions of Flyme.
 |Flyme 7.1.5.0A 修复版|V8 高配版|2018/10/18|1.99GB (2,144,456,823 Bytes)|1.99GB (2,144,468,992 Bytes)|53deeb7080244ca3b712a235b3613d21|b52d5f34e74260984d50f4e06a5645c2dc7a7c5d|<https://firmware.meizu.com/Firmware/Flyme/M1813/7.1.5.0/cn/20181011160322/b3613d21/update.zip>|
 |Flyme 7.1.5.0A|V8 高配版|2018/9/27|1.98GB (2,127,123,039 Bytes)|1.98GB (2,127,167,488 Bytes)|9f2109b5739141537eaecc0b058b637d|2a4b177b96bbc7646209ffcee9456d84200d7f3d|<https://firmware.meizu.com/Firmware/Flyme/M1813/7.1.5.0/cn/20180913212948/058b637d/update.zip>|
 
+### 魅族 note9
+
+#### 国内版
+
+##### 稳定版
+<!--魅族 note9|国内版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+
+
+##### 体验版
+<!--魅族 note9|国内版|体验版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+
+
 ### 魅族 note8
 
 #### 国内版
@@ -778,6 +797,34 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.22 beta|魅蓝 Max|2018/5/22|1.36GB (1,462,386,297 Bytes)|1.36GB (1,462,435,840 Bytes)|fcf544e60b2c1f5351e7128c5b53a949|75d8dd91e95c9f6ec08626c29f88c3ea18f1883a|<https://firmware.meizu.com/Firmware/Flyme/MAX/7.8.5.22/cn_beta/20180519192652/5b53a949/update.zip>|
 |Flyme 7.8.5.8 beta|魅蓝 Max|2018/5/8|1.49GB (1,605,479,244 Bytes)|1.49GB (1,605,500,928 Bytes)|ae1609339bbe8f5e11fd681fd30afb8e|6434dc32333e71ce3af364b95bed5eeb925286f4|<https://firmware.meizu.com/Firmware/Flyme/MAX/7.8.5.8/cn_beta/20180507205516/d30afb8e/update.zip>|
 |Flyme 7.8.4.22 beta|魅蓝 Max|2018/4/22|1.48GB (1,592,548,520 Bytes)|1.48GB (1,592,590,336 Bytes)|c3df5af27dc34adbeea8f7a7e5015e3c|bf6365532affd73cf41bd30c083096e16fc3ac80|<https://firmware.meizu.com/Firmware/Flyme/MAX/7.8.4.22/cn_beta/20180419210036/e5015e3c/update.zip>|
+
+### 魅蓝 U20
+
+#### 国内版
+
+##### 稳定版
+<!--魅蓝 U20|国内版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+
+##### 体验版
+<!--魅蓝 U20|国内版|体验版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+
+### 魅蓝 U10
+
+#### 国内版
+
+##### 稳定版
+<!--魅蓝 U10|国内版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+
+##### 体验版
+<!--魅蓝 U10|国内版|体验版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
 
 ### 魅蓝 metal
 
