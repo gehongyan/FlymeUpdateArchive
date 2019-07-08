@@ -1558,8 +1558,8 @@ A repository to collect all versions of Flyme.
 ##### 稳定版
 <!--魅蓝 2|海外版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
-<!--
 |----|----|----|----|----|----|----|----|
+<!--
 |Flyme 6.2.2.0G|Meizu m2 mini 国际版|2019/3/26|776MB (813,987,201 Bytes)|776MB (814,022,656 Bytes)|f734f6bef3289e9fed52bc36e91dd32a|089a037dfc0e94a1188a8cc0853ef8d1a27a2283|<http://dl-res.flymeos.com/Firmware/Flyme/m2/6.2.2.0/intl/20190311110040/e91dd32a/update.zip>|
 |Flyme 6.2.1.0G|Meizu m2 mini 国际版|2019/1/14|765MB (802,882,063 Bytes)|765MB (802,947,072 Bytes)|0e2def74bd3192314abe7ac43a1c80ce|2ec98333a5917e272d4cde41cad3f28d3d4388e4|<http://dl-res.flymeos.com/Firmware/Flyme/m2/6.2.1.0/intl/20181217094727/3a1c80ce/update.zip>|
 -->
