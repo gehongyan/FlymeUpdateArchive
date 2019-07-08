@@ -710,6 +710,12 @@ A repository to collect all versions of Flyme.
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 
+#### 海外版
+
+##### 稳定版
+<!--魅族 note9|海外版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
 
 ### 魅族 note8
 
@@ -1100,6 +1106,13 @@ A repository to collect all versions of Flyme.
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 note2|2018/7/26|1.03GB (1,116,188,406 Bytes)|1.03GB (1,116,209,152 Bytes)|6a2611fba02b5fa18a6ea530e18d06f5|c0f29fd7a6f31ff34a0daa8deeff77cb144153e5|<https://firmware.meizu.com/Firmware/Flyme/m2_note/7.8.7.24/cn_beta/20180724155411/e18d06f5/update.zip>|
 |Flyme 7.8.7.24 beta 电信版|魅蓝 note2 电信版|2018/7/26|1.26GB (1,359,412,919 Bytes)|1.26GB (1,359,413,248 Bytes)|a4ba554fe2e641eae9e553a313aeb6da|cd3b783a7b974b3a102b80fbbbe9e7a91a47b1f5|<https://firmware.meizu.com/Firmware/Flyme/m2c_note/7.8.7.24/cn_beta/20180725105902/13aeb6da/update.zip>|
+
+#### 海外版
+
+##### 稳定版
+<!--魅蓝 note2|海外版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
 
 ### 魅蓝 8
 
