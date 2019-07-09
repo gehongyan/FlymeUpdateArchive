@@ -127,7 +127,7 @@ A repository to collect all versions of Flyme.
 <!--16th|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.3.0.0A|16th|2019/6/24|||af8cee1e8643b50d9a2a8ecb296f6b46||<https://firmware.meizu.com/Firmware/Flyme/16th/7.3.0.0/cn/20190621143727/296f6b46/update.zip>|
+|Flyme 7.3.0.0A 修复版|16th|2019/6/24|||af8cee1e8643b50d9a2a8ecb296f6b46||<https://firmware.meizu.com/Firmware/Flyme/16th/7.3.0.0/cn/20190621143727/296f6b46/update.zip>|
 |Flyme 7.3.0.0A|16th|2019/5/10|2.37GB (2,552,738,970 Bytes)|2.37GB (2,552,758,272 Bytes)|855c596750a9b63b0737f49d5ce55654|ee5667059aec32dede5f6f320427e15d86fc5f8d|<https://firmware.meizu.com/Firmware/Flyme/16th/7.3.0.0/cn/20190510024618/5ce55654/update.zip>|
 |Flyme 7.2.0.0A|16th|2019/1/22|2.20GB (2,373,222,795 Bytes)|2.20GB (2,373,255,168 Bytes)|392e41b66f24c81cae64f598905cb517|1287becce68216f0b5023075bab98f7c060af950|<https://firmware.meizu.com/Firmware/Flyme/16th/7.2.0.0/cn/20190118191043/905cb517/update.zip>|
 |Flyme 7.1.1.4A|16th|2018/12/19|2.16GB (2,323,277,396 Bytes)|2.16GB (2,323,316,736 Bytes)|b06437a5e1d2d2a39721a795928ca597|ebb56ccb4d9bd8d8577f0fa1059c9c866d13e025|<https://firmware.meizu.com/Firmware/Flyme/16th/7.1.1.4/cn/20181213113506/928ca597/update.zip>|
