@@ -42,7 +42,6 @@ A repository to collect all versions of Flyme.
   - [魅蓝 note5](#魅蓝-note5)
   - [魅蓝 note3](#魅蓝-note3)
   - [魅蓝 note2](#魅蓝-note2)
-  - [魅蓝 8](#魅蓝-8)
   - [魅蓝 8c](#魅蓝-8c)
   - [魅蓝 S6](#魅蓝-s6)
   - [魅蓝 6T](#魅蓝-6t)
@@ -782,6 +781,15 @@ A repository to collect all versions of Flyme.
 |Flyme 7.1.5.0A 修复版|V8 高配版|2018/10/18|1.99GB (2,144,456,823 Bytes)|1.99GB (2,144,468,992 Bytes)|53deeb7080244ca3b712a235b3613d21|b52d5f34e74260984d50f4e06a5645c2dc7a7c5d|<https://firmware.meizu.com/Firmware/Flyme/M1813/7.1.5.0/cn/20181011160322/b3613d21/update.zip>|
 |Flyme 7.1.5.0A|V8 高配版|2018/9/27|1.98GB (2,127,123,039 Bytes)|1.98GB (2,127,167,488 Bytes)|9f2109b5739141537eaecc0b058b637d|2a4b177b96bbc7646209ffcee9456d84200d7f3d|<https://firmware.meizu.com/Firmware/Flyme/M1813/7.1.5.0/cn/20180913212948/058b637d/update.zip>|
 
+#### 海外版
+
+##### 稳定版
+<!--V8 高配版|海外版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+|Flyme 7.1.5.1RU|Meizu M8 俄罗斯版|2019/1/24|1.56GB (1,677,990,377 Bytes)|1.56GB (1,678,049,280 Bytes)|262b35b097cf48392e62d5523d0f8e2b|0bf9c19247c88fff8ccf56a79997db828de91346|<http://dl-res.flymeos.com/Firmware/Flyme/M1813/7.1.5.1/ru/20190108151803/3d0f8e2b/update.zip>|
+|Flyme 7.1.5.1G|Meizu M8 国际版|2019/1/24|1.56GB (1,677,995,294 Bytes)|1.56GB (1,678,049,280 Bytes)|4690cf004f54d29fff99008a84439653|f8139c84e153d330460bff4ceff7e211c95d4e06|<http://dl-res.flymeos.com/Firmware/Flyme/M1813/7.1.5.1/intl/20190108151308/84439653/update.zip>|
+
 ### 魅族 note9
 
 #### 国内版
@@ -1238,24 +1246,6 @@ A repository to collect all versions of Flyme.
 <!--
 |Flyme 6.2.1.0G|Meizu m2 note 国际版|2019/4/16|782MB (820,910,208 Bytes)|782MB (820,912,128 Bytes)|c4cc4723636d87bb3da042c8d2ff5eb5|08bb382576393d5d5299ea0f2ea5fc7739ae4b11|<http://dl-res.flymeos.com/Firmware/Flyme/m2_note/6.2.1.0/intl/20190416180058/d2ff5eb5/update.zip>|
 -->
-
-### 魅蓝 8
-
-#### 国内版
-
-##### 稳定版
-<!--魅蓝 8|国内版|稳定版-->
-|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
-|----|----|----|----|----|----|----|----|
-
-#### 海外版
-
-##### 稳定版
-<!--魅蓝 8|海外版|稳定版-->
-|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
-|----|----|----|----|----|----|----|----|
-|Flyme 7.1.5.1RU|Meizu M8 俄罗斯版|2019/1/24|1.56GB (1,677,990,377 Bytes)|1.56GB (1,678,049,280 Bytes)|262b35b097cf48392e62d5523d0f8e2b|0bf9c19247c88fff8ccf56a79997db828de91346|<http://dl-res.flymeos.com/Firmware/Flyme/M1813/7.1.5.1/ru/20190108151803/3d0f8e2b/update.zip>|
-|Flyme 7.1.5.1G|Meizu M8 国际版|2019/1/24|1.56GB (1,677,995,294 Bytes)|1.56GB (1,678,049,280 Bytes)|4690cf004f54d29fff99008a84439653|f8139c84e153d330460bff4ceff7e211c95d4e06|<http://dl-res.flymeos.com/Firmware/Flyme/M1813/7.1.5.1/intl/20190108151308/84439653/update.zip>|
 
 ### 魅蓝 8c
 
