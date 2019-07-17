@@ -64,6 +64,7 @@ A repository to collect all versions of Flyme.
 <!--16s|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 7.3.0.1A|16s|2019/7/12|2.36GB (2,540,121,342 Bytes)|2.36GB (2,540,175,360 Bytes)|8ec2154b7defb1c4b6f3d58cfd6c58bb|16ee184520c1671bbbcfa3c38c496a404c0ca295|<https://firmware.meizu.com/Firmware/Flyme/16s/7.3.0.1/cn/20190709160216/fd6c58bb/update.zip>|
 |Flyme 7.3.0.0A|16s|2019/5/24|||811aace5ae666071beae501d5e1384e1||<https://firmware.meizu.com/Firmware/Flyme/16s/7.3.0.0/cn/20190523171249/5e1384e1/update.zip>|
 |Flyme 7.2.3.0A|16s|2019/4/30|2.37GB (2,548,949,306 Bytes)|2.37GB (2,548,957,184 Bytes)|3112b50d1d0825feb1df51a448b631cb|b5557d946f040d20a90792b6a6f822b8b8dea34f|<https://firmware.meizu.com/Firmware/Flyme/16s/7.2.3.0/cn/20190430154138/48b631cb/update.zip>|
 
@@ -404,6 +405,7 @@ A repository to collect all versions of Flyme.
 <!--PRO 7 Plus|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 7.3.0.0A|PRO 7 Plus|2019/7/12|1.78GB (1,914,102,856 Bytes)|1.78GB (1,914,109,952 Bytes)|3dcab391e5cf6589dd6c3ed8adb512d4|21f3e124599ba5b29b8719ce324103d56f5e5c0b|<https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/7.3.0.0/cn/20190709100359/adb512d4/update.zip>|
 |Flyme 7.2.0.0A 修复版|PRO 7 Plus|2019/3/12|1.73GB (1,863,574,728 Bytes)|1.73GB (1,863,581,696 Bytes)|5f29349bab874ae9631fec27d48ba3fa|3a86d566447d71b1cd5230b5b143ddabca2a79b7|<https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/7.2.0.0/cn/20190312114136/d48ba3fa/update.zip>|
 |Flyme 7.2.0.0A|PRO 7 Plus|2019/1/22|1.73GB (1,862,571,159 Bytes)|1.73GB (1,862,598,656 Bytes)|8d592e33a078d0710f77c1fc69133125|21217aa81f7eee585215b116629a365fea2e0926|<https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/7.2.0.0/cn/20190118191208/69133125/update.zip>|
 |Flyme 7.1.5.0A|PRO 7 Plus|2018/12/14|1.65GB (1,774,283,053 Bytes)|1.65GB (1,774,321,664 Bytes)|35696ed5a0011924f8351e288bc24ae8|7f992553d674dbaccca9863624de2add7d7a1daf|<https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/7.1.5.0/cn/20181212040400/8bc24ae8/update.zip>|
@@ -524,7 +526,8 @@ A repository to collect all versions of Flyme.
 <!--PRO 7 标准版|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.2.0.0A|PRO 7 标准版|2019/3/12|1.67GB (1,801,003,977 Bytes)|1.67GB (1,801,060,352 Bytes)|bfe1e63246e622d7968d38f10e6c090a|3bdf218fd98c3babd7587311918d5d257ad906f4|<https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.2.0.0/cn/20190312102131/0e6c090a/update.zip>|
+|Flyme 7.3.0.0A|PRO 7 标准版|2019/7/15|1.76GB (1,892,966,230 Bytes)|1.76GB (1,892,966,400 Bytes)|5a78815624f86544a61860283a5c2ab1|f4cf5320b798f3829bf3bd1c7a144ea5d44023d3|<https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.3.0.0/cn/20190708161221/3a5c2ab1/update.zip>|
+|Flyme 7.2.0.0A 修复版|PRO 7 标准版|2019/3/12|1.67GB (1,801,003,977 Bytes)|1.67GB (1,801,060,352 Bytes)|bfe1e63246e622d7968d38f10e6c090a|3bdf218fd98c3babd7587311918d5d257ad906f4|<https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.2.0.0/cn/20190312102131/0e6c090a/update.zip>|
 |Flyme 7.2.0.0A|PRO 7 标准版|2019/1/22|1.67GB (1,800,103,887 Bytes)|1.67GB (1,800,142,848 Bytes)|31a573d671404206d0cdef27a7a07ac1|756e13bce8adeda1a050f6446d73146a2d9e0601|<https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.2.0.0/cn/20190118191148/a7a07ac1/update.zip>|
 |Flyme 7.1.5.0A|PRO 7 标准版|2018/12/17|1.59GB (1,712,134,193 Bytes)|1.59GB (1,712,193,536 Bytes)|104f26793053b9322ab59be00391ad52|a30d5307de4877050e5df7077dd5a66f744a639b|<https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.1.5.0/cn/20181212040039/0391ad52/update.zip>|
 |Flyme 7.0.0.0A 修复版 2|PRO 7 标准版|2018/5/21|1.52GB (1,642,886,451 Bytes)|1.52GB (1,642,921,984 Bytes)|d1a6dd259c64aaf56450e9b7abab6d1e|d958561c1f00aca02716bf989ada380dd4e32b09|<https://firmware.meizu.com/Firmware/Flyme/PRO7S/7.0.0.0/cn/20180521125830/abab6d1e/update.zip>|
@@ -1328,6 +1331,7 @@ A repository to collect all versions of Flyme.
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 <!--
+|Flyme 6.3.4.5G|Meizu M6T 国际版|2019/7/9|1.39GB (1,499,797,511 Bytes)|1.39GB (1,499,856,896 Bytes)|c6bc4dc8f8742f55c96e94ac2d5839c0|21aeddfac3dcefa9a1d63f88fe2d408d2b0b5cef|<http://dl-res.flymeos.com/Firmware/Flyme/M6T/6.3.4.5/intl/20190625150959/2d5839c0/update.zip>|
 |Flyme 6.3.4.4RU|Meizu M6T 俄罗斯版|2019/2/26|1.39GB (1,495,722,714 Bytes)|1.39GB (1,495,728,128 Bytes)|292f59256c226844d571d4d3b9b4b8e0|21b0eda219eb1378449f4e3202d454add4033535|<http://dl-res.flymeos.com/Firmware/Flyme/M6T/6.3.4.4/ru/20190218124317/b9b4b8e0/update.zip>|
 |Flyme 6.3.4.4G|Meizu M6T 国际版|2019/2/26|1.39GB (1,495,707,312 Bytes)|1.39GB (1,495,728,128 Bytes)|e32cceb939b1dbef94da35f91ac99fed|7767689f8e22fe3427a010c6ab5f8ea13d58fcb2|<http://dl-res.flymeos.com/Firmware/Flyme/M6T/6.3.4.4/intl/20190218124122/1ac99fed/update.zip>|
 -->
