@@ -26,8 +26,8 @@ A repository to collect all versions of Flyme.
 - [国民系列](#国民系列)
   - [V8 标配版](#v8-标配版)
   - [V8 高配版](#v8-高配版)
-  - [魅族 note9](#魅族-note9)
-  - [魅族 note8](#魅族-note8)
+  - [Note9](#note9)
+  - [Note8](#note8)
   - [X8](#x8)
 - [魅蓝系列](#魅蓝系列)
   - [魅蓝 X](#魅蓝-x)
@@ -38,9 +38,9 @@ A repository to collect all versions of Flyme.
   - [魅蓝 U20](#魅蓝-u20)
   - [魅蓝 U10](#魅蓝-u10)
   - [魅蓝 metal](#魅蓝-metal)
-  - [魅蓝 note6](#魅蓝-note6)
-  - [魅蓝 note5](#魅蓝-note5)
-  - [魅蓝 note3](#魅蓝-note3)
+  - [魅蓝 Note6](#魅蓝-note6)
+  - [魅蓝 Note5](#魅蓝-note5)
+  - [魅蓝 Note3](#魅蓝-note3)
   - [魅蓝 note2](#魅蓝-note2)
   - [魅蓝 8c](#魅蓝-8c)
   - [魅蓝 S6](#魅蓝-s6)
@@ -659,7 +659,7 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.6.5 beta|PRO 6/PRO 6s|2018/6/5|1.50GB (1,621,085,956 Bytes)|1.50GB (1,621,098,496 Bytes)|6fc081cca713fc78531e8cebd8c8546a|27d258b5d730ef61fc32e1666859d6dc2e6f7ea5|<https://firmware.meizu.com/Firmware/Flyme/PRO_6/7.8.6.5/cn_beta/20180601192159/d8c8546a/update.zip>|
 |Flyme 7.8.5.22 beta|PRO 6/PRO 6s|2018/5/22|1.49GB (1,601,168,823 Bytes)|1.49GB (1,601,175,552 Bytes)|e78d44da2abccff3839b0ca3dbf04530|7b471511de30096617bb8a119ea4d5da865c8e2f|<https://firmware.meizu.com/Firmware/Flyme/PRO_6/7.8.5.22/cn_beta/20180521121316/dbf04530/update.zip>|
 |Flyme 7.8.5.8 beta|PRO 6/PRO 6s|2018/5/8|1.48GB (1,594,072,405 Bytes)|1.48GB (1,594,097,664 Bytes)|c5a0d9cc799f46df1b997aa5b55b3a99|d95a3cd519662fc0460609313dc7bf6e48da0390|<https://firmware.meizu.com/Firmware/Flyme/PRO_6/7.8.5.8/cn_beta/20180507205234/b55b3a99/update.zip>|
-|Flyme 7.8.4.22 beta|PRO 6s/PRO 6|2018/4/22|1.47GB (1,589,250,512 Bytes)|1.47GB (1,589,313,536 Bytes)|282d7f0e88ec9c4ad3f0b7b4657ceb0f|cd770263b6d02b7362e181ccd682dad97eee4aab|<https://firmware.meizu.com/Firmware/Flyme/PRO_6/7.8.4.22/cn_beta/20180419195514/657ceb0f/update.zip>|
+|Flyme 7.8.4.22 beta|PRO 6/PRO 6s|2018/4/22|1.47GB (1,589,250,512 Bytes)|1.47GB (1,589,313,536 Bytes)|282d7f0e88ec9c4ad3f0b7b4657ceb0f|cd770263b6d02b7362e181ccd682dad97eee4aab|<https://firmware.meizu.com/Firmware/Flyme/PRO_6/7.8.4.22/cn_beta/20180419195514/657ceb0f/update.zip>|
 
 ### PRO 5
 
@@ -793,58 +793,58 @@ A repository to collect all versions of Flyme.
 |Flyme 7.1.5.1RU|Meizu M8 俄罗斯版|2019/1/24|1.56GB (1,677,990,377 Bytes)|1.56GB (1,678,049,280 Bytes)|262b35b097cf48392e62d5523d0f8e2b|0bf9c19247c88fff8ccf56a79997db828de91346|<http://dl-res.flymeos.com/Firmware/Flyme/M1813/7.1.5.1/ru/20190108151803/3d0f8e2b/update.zip>|
 |Flyme 7.1.5.1G|Meizu M8 国际版|2019/1/24|1.56GB (1,677,995,294 Bytes)|1.56GB (1,678,049,280 Bytes)|4690cf004f54d29fff99008a84439653|f8139c84e153d330460bff4ceff7e211c95d4e06|<http://dl-res.flymeos.com/Firmware/Flyme/M1813/7.1.5.1/intl/20190108151308/84439653/update.zip>|
 
-### 魅族 note9
+### Note9
 
 #### 国内版
 
 ##### 稳定版
-<!--魅族 note9|国内版|稳定版-->
+<!--Note9|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.2.2.1A|魅族 note9|2019/5/13|2.29GB (2,459,016,512 Bytes)|2.29GB (2,459,041,792 Bytes)|35d155fd8fdbc93353b05b9906cda626|404f4a4c0891ee4064f1d0b1a24bedbf96f6e999|<https://firmware.meizu.com/Firmware/Flyme/note9/7.2.2.1/cn/20190507103451/06cda626/update.zip>|
-|Flyme 7.2.2.0A 修复版 2|魅族 note9|2019/4/3|2.28GB (2,452,878,978 Bytes)|2.28GB (2,452,881,408 Bytes)|336a26ed1c4c9891da36ff6c48ea81a0|a0f3e91156d272e41151b8396c4cf0b108abeeea|<https://firmware.meizu.com/Firmware/Flyme/note9/7.2.2.0/cn/20190402110540/48ea81a0/update.zip>|
-|Flyme 7.2.2.0A 修复版 1|魅族 note9|2019/3/19|2.28GB (2,452,909,748 Bytes)|2.28GB (2,452,910,080 Bytes)|b8566468d1133acd80f3351c006c1ab3|df416701babafaa279bf1fbebf8b8f909a545400|<https://firmware.meizu.com/Firmware/Flyme/note9/7.2.2.0/cn/20190315192748/006c1ab3/update.zip>|
-|Flyme 7.2.2.0A|魅族 note9|2019/3/11|2.28GB (2,452,699,787 Bytes)|2.28GB (2,452,750,336 Bytes)|633768efb31f1dac90f7a6fd81078e9e|c591c9c0c62853f6cad54a89be3a548a898acb15|<https://firmware.meizu.com/Firmware/Flyme/m1923/7.2.2.0/cn/20190227183223/81078e9e/update.zip>|
+|Flyme 7.2.2.1A|Note9|2019/5/13|2.29GB (2,459,016,512 Bytes)|2.29GB (2,459,041,792 Bytes)|35d155fd8fdbc93353b05b9906cda626|404f4a4c0891ee4064f1d0b1a24bedbf96f6e999|<https://firmware.meizu.com/Firmware/Flyme/note9/7.2.2.1/cn/20190507103451/06cda626/update.zip>|
+|Flyme 7.2.2.0A 修复版 2|Note9|2019/4/3|2.28GB (2,452,878,978 Bytes)|2.28GB (2,452,881,408 Bytes)|336a26ed1c4c9891da36ff6c48ea81a0|a0f3e91156d272e41151b8396c4cf0b108abeeea|<https://firmware.meizu.com/Firmware/Flyme/note9/7.2.2.0/cn/20190402110540/48ea81a0/update.zip>|
+|Flyme 7.2.2.0A 修复版 1|Note9|2019/3/19|2.28GB (2,452,909,748 Bytes)|2.28GB (2,452,910,080 Bytes)|b8566468d1133acd80f3351c006c1ab3|df416701babafaa279bf1fbebf8b8f909a545400|<https://firmware.meizu.com/Firmware/Flyme/note9/7.2.2.0/cn/20190315192748/006c1ab3/update.zip>|
+|Flyme 7.2.2.0A|Note9|2019/3/11|2.28GB (2,452,699,787 Bytes)|2.28GB (2,452,750,336 Bytes)|633768efb31f1dac90f7a6fd81078e9e|c591c9c0c62853f6cad54a89be3a548a898acb15|<https://firmware.meizu.com/Firmware/Flyme/m1923/7.2.2.0/cn/20190227183223/81078e9e/update.zip>|
 
 ##### 体验版
-<!--魅族 note9|国内版|体验版-->
+<!--Note9|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 
 #### 海外版
 
 ##### 稳定版
-<!--魅族 note9|海外版|稳定版-->
+<!--Note9|海外版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.2.2.0G|Meizu Note9 国际版|2019/4/17|1.94GB (2,086,721,268 Bytes)|1.94GB (2,086,723,584 Bytes)|81a7657e110b42fe7336e9c17612d99c|e5a7c5a4878764887b45837a2140cd50ff015dc1|<http://dl-res.flymeos.com/Firmware/Flyme/note9/7.2.2.0/intl/20190402182611/7612d99c/update.zip>|
 
-### 魅族 note8
+### Note8
 
 #### 国内版
 
 ##### 稳定版
-<!--魅族 note8|国内版|稳定版-->
+<!--Note8|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.3.0.0A|魅族 note8|2019/5/30|||968e7de69f6c407b3cc85953a61a7ee6||<https://firmware.meizu.com/Firmware/Flyme/note8/7.3.0.0/cn/20190529142743/a61a7ee6/update.zip>|
-|Flyme 7.1.6.1A|魅族 note8|2018/12/11|2.23GB (2,401,514,853 Bytes)|2.23GB (2,401,566,720 Bytes)|aee377e8602cde253fbe764472460d59|f1f455fe462562bb1cc1e835c9c2d622b42d79b0|<https://firmware.meizu.com/Firmware/Flyme/note8/7.1.6.1/cn/20181107144618/72460d59/update.zip>|
-|Flyme 7.1.6.0A|魅族 note8|2018/11/1|2.23GB (2,403,598,883 Bytes)|2.23GB (2,403,602,432 Bytes)|5c99d16699d4e91dec268269f8ae07f7|4e832df8d31ddf72e740ca36f37c1d6eb632890f|<https://firmware.meizu.com/Firmware/Flyme/note8/7.1.6.0/cn/20181030112311/f8ae07f7/update.zip>|
+|Flyme 7.3.0.0A|Note8|2019/5/30|||968e7de69f6c407b3cc85953a61a7ee6||<https://firmware.meizu.com/Firmware/Flyme/note8/7.3.0.0/cn/20190529142743/a61a7ee6/update.zip>|
+|Flyme 7.1.6.1A|Note8|2018/12/11|2.23GB (2,401,514,853 Bytes)|2.23GB (2,401,566,720 Bytes)|aee377e8602cde253fbe764472460d59|f1f455fe462562bb1cc1e835c9c2d622b42d79b0|<https://firmware.meizu.com/Firmware/Flyme/note8/7.1.6.1/cn/20181107144618/72460d59/update.zip>|
+|Flyme 7.1.6.0A|Note8|2018/11/1|2.23GB (2,403,598,883 Bytes)|2.23GB (2,403,602,432 Bytes)|5c99d16699d4e91dec268269f8ae07f7|4e832df8d31ddf72e740ca36f37c1d6eb632890f|<https://firmware.meizu.com/Firmware/Flyme/note8/7.1.6.0/cn/20181030112311/f8ae07f7/update.zip>|
 
 ##### 体验版
-<!--魅族 note8|国内版|体验版-->
+<!--Note8|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 
 #### 海外版
 
 ##### 稳定版
-<!--魅族 note8|海外版|稳定版-->
+<!--Note8|海外版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.1.6.1G|Meizu Note8 国际版|2019/6/18|||||<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.1/intl/20190611105505/c563afb1/update.zip>|
-|Flyme 7.1.6.0A|魅族 note8 欧盟版|2019/1/18|1.93GB (2,079,899,063 Bytes)|1.93GB (2,079,916,032 Bytes)|a9e50bd894b2d79fa50d058a3dd5325c|25d27d8ca123e8f53c7548c3172a9a155dd42a7d|<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.0/cn/20190118154658/3dd5325c/update.zip>|
-|Flyme 7.1.6.0RU|魅族 note8 俄罗斯版|2018/11/9|2.00GB (2,155,796,699 Bytes)|2.00GB (2,155,806,720 Bytes)|306b85b385f7e54bd95bccae0b707b6f|abea004754a3b84d75137b2920614dd8d7e1ec47|<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.0/ru/20181109142337/0b707b6f/update.zip>|
+|Flyme 7.1.6.0EU|Note8 欧盟版|2019/1/18|1.93GB (2,079,899,063 Bytes)|1.93GB (2,079,916,032 Bytes)|a9e50bd894b2d79fa50d058a3dd5325c|25d27d8ca123e8f53c7548c3172a9a155dd42a7d|<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.0/cn/20190118154658/3dd5325c/update.zip>|
+|Flyme 7.1.6.0RU|Note8 俄罗斯版|2018/11/9|2.00GB (2,155,796,699 Bytes)|2.00GB (2,155,806,720 Bytes)|306b85b385f7e54bd95bccae0b707b6f|abea004754a3b84d75137b2920614dd8d7e1ec47|<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.0/ru/20181109142337/0b707b6f/update.zip>|
 |Flyme 7.1.6.0G|Meizu Note8 国际版|2018/11/13|1.85GB (1,994,904,400 Bytes)|1.85GB (1,994,915,840 Bytes)|31affdf95b84a24d288f80332b0c24a7|6ae1c1e788de95c6cd2e2f380870204baef6b025|<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.0/intl/20181113175844/2b0c24a7/update.zip>|
 
 ### X8
@@ -933,9 +933,7 @@ A repository to collect all versions of Flyme.
 <!--魅蓝 E3|海外版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-<!--
-|Flyme 6.3.1.0G|Meizu M3E 国际版|2019/3/26|960MB (1,007,638,457 Bytes)|961MB (1,007,681,536 Bytes)|32d99689756c8d65de8c1bced46f3d2d|58e8d44645fa8955e3b9b7c2280697366612d9e3|<http://dl-res.flymeos.com/Firmware/Flyme/M1_E/6.3.1.0/intl/20190321075209/d46f3d2d/update.zip>|
--->
+
 
 ### 魅蓝 E2
 
@@ -984,6 +982,15 @@ A repository to collect all versions of Flyme.
 |Flyme 7.8.5.8 beta|魅蓝 E|2018/5/8|1.48GB (1,596,508,220 Bytes)|1.48GB (1,596,522,496 Bytes)|b5d8b73c3e9e678ba4644484984336cc|670295372dab75c2ad344b78a3c8cf4c9104391e|<https://firmware.meizu.com/Firmware/Flyme/M1_E/7.8.5.8/cn_beta/20180507205459/984336cc/update.zip>|
 |Flyme 7.8.4.22 beta|魅蓝 E|2018/4/22|1.47GB (1,583,661,487 Bytes)|1.47GB (1,583,677,440 Bytes)|c16cec32626cf2a7ce262740a0000a3e|bc1c629861f57e4882ac24aaa00bf8f495ed181c|<https://firmware.meizu.com/Firmware/Flyme/M1_E/7.8.4.22/cn_beta/20180419205745/a0000a3e/update.zip>|
 
+#### 海外版
+
+##### 稳定版
+<!--魅蓝 E|海外版|稳定版-->
+|版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
+|----|----|----|----|----|----|----|----|
+<!--
+|Flyme 6.3.1.0G|Meizu M3E 国际版|2019/3/26|960MB (1,007,638,457 Bytes)|961MB (1,007,681,536 Bytes)|32d99689756c8d65de8c1bced46f3d2d|58e8d44645fa8955e3b9b7c2280697366612d9e3|<http://dl-res.flymeos.com/Firmware/Flyme/M1_E/6.3.1.0/intl/20190321075209/d46f3d2d/update.zip>|
+-->
 ### 魅蓝 Max
 
 #### 国内版
@@ -1086,58 +1093,58 @@ A repository to collect all versions of Flyme.
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.24 beta|魅蓝 metal|2018/7/26|1.05GB (1,138,420,313 Bytes)|1.05GB (1,138,425,856 Bytes)|0404b06754dca309b1e645d4c7e886e7|519f425221b1415db599b131e9daf228f4cf5a6f|<https://firmware.meizu.com/Firmware/Flyme/m1_metal/7.8.7.24/cn_beta/20180725095348/c7e886e7/update.zip>|
 
-### 魅蓝 note6
+### 魅蓝 Note6
 
 #### 国内版
 
 ##### 稳定版
-<!--魅蓝 note6|国内版|稳定版-->
+<!--魅蓝 Note6|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.3.0.0A|魅蓝 note6|2019/5/30|||826d48b69e357e3ce5b9abec6a416f6d||<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.3.0.0/cn/20190529112727/6a416f6d/update.zip>|
-|Flyme 7.2.0.0A|魅蓝 note6|2019/3/13|2.13GB (2,295,298,118 Bytes)|2.13GB (2,295,332,864 Bytes)|7233aa31444f4c06471ec946bfaf3e0a|fdc07068eed97edff700ba8122a69a9d2a943f87|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.2.0.0/cn/20190313181517/bfaf3e0a/update.zip>|
-|Flyme 7.1.1.1A 修复版|魅蓝 note6|2018/11/23|2.04GB (2,190,750,711 Bytes)|2.04GB (2,190,802,944 Bytes)|80dae1bc003c12e1435dab7bcad9a075|33b726c919dd4728086c61571bef0aa24e39d71c|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.1.1.1/cn/20181122152045/cad9a075/update.zip>|
-|Flyme 7.1.1.1A|魅蓝 note6|2018/11/15|2.04GB (2,190,802,797 Bytes)|2.04GB (2,190,802,944 Bytes)|b5d569e443eba2d1e0865f3bb88184d1|cecaace46d516247d170aeed3f7077b570bb31c7|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.1.1.1/cn/20181115041128/b88184d1/update.zip>|
-|Flyme 7.0.1.1A 修复版 3|魅蓝 note6|2018/8/8|2.10GB (2,262,356,030 Bytes)|2.10GB (2,262,368,256 Bytes)|c13a8f731086d899bb8fc429cbe949d1|355a75442289d21173aa404d34d3376dca87bef4|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180807192006/cbe949d1/update.zip>|
-|Flyme 7.0.1.1A 修复版 2|魅蓝 note6|2018/8/6|2.10GB (2,262,354,820 Bytes)|2.10GB (2,262,368,256 Bytes)|d6fd521522c4e5cd5d0977c4e024a274|495f846d17e4fc4945ab24ee49e414741616fbdb|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180803190502/e024a274/update.zip>|
-|Flyme 7.0.1.1A 修复版 1|魅蓝 note6|2018/6/14|2.08GB (2,236,629,237 Bytes)|2.08GB (2,236,678,144 Bytes)|f47882b2b8c1079d9c55681f56484c0f|bf778302d7204cca2a048b3f3a324317172f3f59|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180613174421/56484c0f/update.zip>|
-|Flyme 7.0.1.1A|魅蓝 note6|2018/5/28|2.08GB (2,238,193,776 Bytes)|2.08GB (2,238,251,008 Bytes)|dd2173c205a084c021457de6e5c7fa3f|eb2aa0216ef7f011567f799668bd083ae77c238f|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180528104437/e5c7fa3f/update.zip>|
+|Flyme 7.3.0.0A|魅蓝 Note6|2019/5/30|||826d48b69e357e3ce5b9abec6a416f6d||<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.3.0.0/cn/20190529112727/6a416f6d/update.zip>|
+|Flyme 7.2.0.0A|魅蓝 Note6|2019/3/13|2.13GB (2,295,298,118 Bytes)|2.13GB (2,295,332,864 Bytes)|7233aa31444f4c06471ec946bfaf3e0a|fdc07068eed97edff700ba8122a69a9d2a943f87|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.2.0.0/cn/20190313181517/bfaf3e0a/update.zip>|
+|Flyme 7.1.1.1A 修复版|魅蓝 Note6|2018/11/23|2.04GB (2,190,750,711 Bytes)|2.04GB (2,190,802,944 Bytes)|80dae1bc003c12e1435dab7bcad9a075|33b726c919dd4728086c61571bef0aa24e39d71c|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.1.1.1/cn/20181122152045/cad9a075/update.zip>|
+|Flyme 7.1.1.1A|魅蓝 Note6|2018/11/15|2.04GB (2,190,802,797 Bytes)|2.04GB (2,190,802,944 Bytes)|b5d569e443eba2d1e0865f3bb88184d1|cecaace46d516247d170aeed3f7077b570bb31c7|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.1.1.1/cn/20181115041128/b88184d1/update.zip>|
+|Flyme 7.0.1.1A 修复版 3|魅蓝 Note6|2018/8/8|2.10GB (2,262,356,030 Bytes)|2.10GB (2,262,368,256 Bytes)|c13a8f731086d899bb8fc429cbe949d1|355a75442289d21173aa404d34d3376dca87bef4|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180807192006/cbe949d1/update.zip>|
+|Flyme 7.0.1.1A 修复版 2|魅蓝 Note6|2018/8/6|2.10GB (2,262,354,820 Bytes)|2.10GB (2,262,368,256 Bytes)|d6fd521522c4e5cd5d0977c4e024a274|495f846d17e4fc4945ab24ee49e414741616fbdb|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180803190502/e024a274/update.zip>|
+|Flyme 7.0.1.1A 修复版 1|魅蓝 Note6|2018/6/14|2.08GB (2,236,629,237 Bytes)|2.08GB (2,236,678,144 Bytes)|f47882b2b8c1079d9c55681f56484c0f|bf778302d7204cca2a048b3f3a324317172f3f59|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180613174421/56484c0f/update.zip>|
+|Flyme 7.0.1.1A|魅蓝 Note6|2018/5/28|2.08GB (2,238,193,776 Bytes)|2.08GB (2,238,251,008 Bytes)|dd2173c205a084c021457de6e5c7fa3f|eb2aa0216ef7f011567f799668bd083ae77c238f|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.0.1.1/cn/20180528104437/e5c7fa3f/update.zip>|
 
 ##### 体验版
-<!--魅蓝 note6|国内版|体验版-->
+<!--魅蓝 Note6|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.9.5.28 beta|魅蓝 note6|2019/5/28|||014886b94081b9d8bff1e47e7a6b48cc||<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.5.28/cn_beta/20190524194029/7a6b48cc/update.zip>|
-|Flyme 7.9.5.7 beta|魅蓝 note6|2019/5/7|2.20GB (2,369,541,328 Bytes)|2.20GB (2,369,585,152 Bytes)|147a85090eb64cb83fe4c3e19a915143|ebc1599463db9876931d08cc0176cfcb7790d201|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.5.7/cn_beta/20190505192131/9a915143/update.zip>|
-|Flyme 7.9.4.23 beta|魅蓝 note6|2019/4/23|2.20GB (2,365,063,954 Bytes)|2.20GB (2,365,128,704 Bytes)|664bb8b15b2fd7e96f1394c22ae469ee|6a191e367e37ccf829e88aebc409eaeb49b51479|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.4.23/cn_beta/20190420160808/2ae469ee/update.zip>|
-|Flyme 7.9.4.16 beta|魅蓝 note6|2019/4/16|2.20GB (2,364,996,709 Bytes)|2.20GB (2,364,997,632 Bytes)|e542395e1527ac36d0b11e1f5af6eacd|cda05fec0cb2a2b3006ed238c03c2a1e5b6b977a|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.4.16/cn_beta/20190412175500/5af6eacd/update.zip>|
-|Flyme 7.9.4.2 beta|魅蓝 note6|2019/4/2|2.06GB (2,214,568,605 Bytes)|2.06GB (2,214,592,512 Bytes)|d16914c9847b3bad278e03f5f32357e6|be9f16eb1d57427fcb78bae4d29def27b2842573|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.4.2/cn_beta/20190329170931/f32357e6/update.zip>|
-|Flyme 7.9.3.19 beta|魅蓝 note6|2019/3/19|2.12GB (2,277,779,948 Bytes)|2.12GB (2,277,834,752 Bytes)|d8a08adb295749cf75365cbe80d7de2a|7865475d248f2c38bd1261e74e7afc236840d39f|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.3.19/cn_beta/20190316173447/80d7de2a/update.zip>|
-|Flyme 7.9.3.5 beta|魅蓝 note6|2019/2/28|2.12GB (2,279,841,917 Bytes)|2.12GB (2,279,866,368 Bytes)|211d4c8d9ef7d0ae4140df896607fb28|408142f97e37ed008fbf209ea43eaf29abe19462|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.3.5/cn_beta/20190228144859/6607fb28/update.zip>|
-|Flyme 7.9.1.22 beta|魅蓝 note6|2019/1/20|2.12GB (2,276,694,521 Bytes)|2.12GB (2,276,720,640 Bytes)|2c4e8a9575eab03a8de9835619a393b3|f9481bc29aee18f2cdfb609ea442a5eafec6ee97|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.1.22/cn_beta/20190118181131/19a393b3/update.zip>|
-|Flyme 7.9.1.8 beta|魅蓝 note6|2019/1/8|2.12GB (2,279,007,158 Bytes)|2.12GB (2,279,014,400 Bytes)|7c5658e10844ba5a45ffb0269b20b583|3faa84a02bc594b35800adf68051550a729632a1|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.1.8/cn_beta/20190104195229/9b20b583/update.zip>|
-|Flyme 7.8.12.25 beta|魅蓝 note6|2018/12/25|2.12GB (2,279,896,285 Bytes)|2.12GB (2,279,931,904 Bytes)|0fc1f33180100d896ae4ae05ba5951c2|9798a6403b4571024fb25d4ff5f52ce83ecda368|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.12.25/cn_beta/20181221192304/ba5951c2/update.zip>|
-|Flyme 7.8.12.11 beta|魅蓝 note6|2018/12/11|2.10GB (2,262,183,712 Bytes)|2.10GB (2,262,237,184 Bytes)|dba650eb365fdac7a2d02cd6465ba744|5d2205979bf279b0c0eb2902ed739e748b2ffb70|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.12.11/cn_beta/20181210110110/465ba744/update.zip>|
-|Flyme 7.8.11.27 beta|魅蓝 note6|2018/11/27|2.08GB (2,241,350,367 Bytes)|2.08GB (2,241,396,736 Bytes)|4695c31cc3c4638c0793c706a15e6468|2edacce457565b7c433db883fbacd68d0e5ccd80|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.11.27/cn_beta/20181123111008/a15e6468/update.zip>|
-|Flyme 7.8.11.13 beta|魅蓝 note6|2018/11/13|2.06GB (2,218,731,763 Bytes)|2.06GB (2,218,786,816 Bytes)|1e15a6ae80f28e0be58043ce78acd755|9e41af34bb5654822e8561906376f6a17e3d5ffe|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.11.13/cn_beta/20181109154200/78acd755/update.zip>|
-|Flyme 7.8.10.30 beta|魅蓝 note6|2018/10/30|2.06GB (2,215,295,831 Bytes)|2.06GB (2,215,313,408 Bytes)|39b672b4b8cffe8cf1fc92e6516b35e0|15ea1b56bac52071b5ad94cc0c9f4ec3e18c0707|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.10.30/cn_beta/20181026100915/516b35e0/update.zip>|
-|Flyme 7.8.10.16 beta|魅蓝 note6|2018/10/16|2.05GB (2,206,643,421 Bytes)|2.05GB (2,206,662,656 Bytes)|e50f1607b45664fabd0ee6b4236b8608|467210dcc0cddd13e44919104f85219d5f8c07b2|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.10.16/cn_beta/20181011165338/236b8608/update.zip>|
-|Flyme 7.8.9.18 beta|魅蓝 note6|2018/9/18|2.02GB (2,170,956,747 Bytes)|2.02GB (2,171,011,072 Bytes)|91860e46c83c3c4feee2040bda506a9d|b4a54717f76ab516ac75e8aedf37d13f4dc0c9e8|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.9.18/cn_beta/20180914153658/da506a9d/update.zip>|
-|Flyme 7.8.9.4 beta|魅蓝 note6|2018/9/4|2.01GB (2,168,275,901 Bytes)|2.01GB (2,168,324,096 Bytes)|ba6ed8989f9866f189f00c2f706b4008|8ed1b999688d425a5d5fabd9551ade5f1b89d979|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.9.4/cn_beta/20180831150439/706b4008/update.zip>|
-|Flyme 7.8.8.21 beta|魅蓝 note6|2018/8/21|2.01GB (2,163,610,202 Bytes)|2.01GB (2,163,671,040 Bytes)|c3d3a10cfbec7fcaf3e40565198dfaac|3ebaf8049981f65738706c1580d7fbf74f3a822c|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.8.21/cn_beta/20180816150258/198dfaac/update.zip>|
-|Flyme 7.8.8.7 beta|魅蓝 note6|2018/8/7|1.99GB (2,146,441,555 Bytes)|1.99GB (2,146,500,608 Bytes)|40927c641679ec9c5ef7884852dc5318|0212c23cfabba805804aac0831c7797dae0a6327|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.8.7/cn_beta/20180802142533/52dc5318/update.zip>|
-|Flyme 7.8.7.24 beta|魅蓝 note6|2018/7/24|1.99GB (2,145,604,477 Bytes)|1.99GB (2,145,648,640 Bytes)|e6cfe643df9d9d8ab129c6331bc67e82|db633d0c5a08ca12f2d7bc6e382020740eb31af4|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.7.24/cn_beta/20180720113343/1bc67e82/update.zip>|
-|Flyme 7.8.7.10 beta|魅蓝 note6|2018/7/10|1.99GB (2,141,489,398 Bytes)|1.99GB (2,141,519,872 Bytes)|41e22df115b7546f35bb09777aebfc8e|d64c206ff2920722c200b799bd1dc3049b908c9f|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.7.10/cn_beta/20180706173256/7aebfc8e/update.zip>|
-|Flyme 7.8.6.25 beta|魅蓝 note6|2018/6/25|1.98GB (2,128,774,532 Bytes)|1.98GB (2,128,805,888 Bytes)|606406094f4e33333e627267a9acc6a5|91938f354299a96d3dff7da0d3f264e631402ddd|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.6.25/cn_beta/20180622193959/a9acc6a5/update.zip>|
-|Flyme 7.8.6.5 beta|魅蓝 note6|2018/6/5|1.97GB (2,121,433,011 Bytes)|1.97GB (2,121,465,856 Bytes)|1e46f636c7ce87a010cce9b92fc83ee6|db61aa234247d0395965ebd02677dd98f5f9248c|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.6.5/cn_beta/20180601151344/2fc83ee6/update.zip>|
-|Flyme 7.8.5.22 beta|魅蓝 note6|2018/5/22|2.07GB (2,225,196,204 Bytes)|2.07GB (2,225,209,344 Bytes)|76d92fc268b2e7ac343c48518b251fc3|a0ef4ece1cc3402dda7d69c1f8d8670f5c2ef734|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.5.22/cn_beta/20180521120858/8b251fc3/update.zip>|
-|Flyme 7.8.5.8 beta|魅蓝 note6|2018/5/8|2.07GB (2,224,805,435 Bytes)|2.07GB (2,224,816,128 Bytes)|24a38234d7a4799ac674e4f0bf7a6601|b7ed9eccd0551413676703efdca3c76cd19479b9|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.5.8/cn_beta/20180507205419/bf7a6601/update.zip>|
-|Flyme 7.8.4.22 beta|魅蓝 note6|2018/4/22|2.04GB (2,196,850,314 Bytes)|2.04GB (2,196,897,792 Bytes)|e349fd252bdec09d110cc833c6871c2b|555617188b6becf239f4f28f39309e2dea00e9e6|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.4.22/cn_beta/20180419195925/c6871c2b/update.zip>|
+|Flyme 7.9.5.28 beta|魅蓝 Note6|2019/5/28|||014886b94081b9d8bff1e47e7a6b48cc||<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.5.28/cn_beta/20190524194029/7a6b48cc/update.zip>|
+|Flyme 7.9.5.7 beta|魅蓝 Note6|2019/5/7|2.20GB (2,369,541,328 Bytes)|2.20GB (2,369,585,152 Bytes)|147a85090eb64cb83fe4c3e19a915143|ebc1599463db9876931d08cc0176cfcb7790d201|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.5.7/cn_beta/20190505192131/9a915143/update.zip>|
+|Flyme 7.9.4.23 beta|魅蓝 Note6|2019/4/23|2.20GB (2,365,063,954 Bytes)|2.20GB (2,365,128,704 Bytes)|664bb8b15b2fd7e96f1394c22ae469ee|6a191e367e37ccf829e88aebc409eaeb49b51479|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.4.23/cn_beta/20190420160808/2ae469ee/update.zip>|
+|Flyme 7.9.4.16 beta|魅蓝 Note6|2019/4/16|2.20GB (2,364,996,709 Bytes)|2.20GB (2,364,997,632 Bytes)|e542395e1527ac36d0b11e1f5af6eacd|cda05fec0cb2a2b3006ed238c03c2a1e5b6b977a|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.4.16/cn_beta/20190412175500/5af6eacd/update.zip>|
+|Flyme 7.9.4.2 beta|魅蓝 Note6|2019/4/2|2.06GB (2,214,568,605 Bytes)|2.06GB (2,214,592,512 Bytes)|d16914c9847b3bad278e03f5f32357e6|be9f16eb1d57427fcb78bae4d29def27b2842573|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.4.2/cn_beta/20190329170931/f32357e6/update.zip>|
+|Flyme 7.9.3.19 beta|魅蓝 Note6|2019/3/19|2.12GB (2,277,779,948 Bytes)|2.12GB (2,277,834,752 Bytes)|d8a08adb295749cf75365cbe80d7de2a|7865475d248f2c38bd1261e74e7afc236840d39f|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.3.19/cn_beta/20190316173447/80d7de2a/update.zip>|
+|Flyme 7.9.3.5 beta|魅蓝 Note6|2019/2/28|2.12GB (2,279,841,917 Bytes)|2.12GB (2,279,866,368 Bytes)|211d4c8d9ef7d0ae4140df896607fb28|408142f97e37ed008fbf209ea43eaf29abe19462|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.3.5/cn_beta/20190228144859/6607fb28/update.zip>|
+|Flyme 7.9.1.22 beta|魅蓝 Note6|2019/1/20|2.12GB (2,276,694,521 Bytes)|2.12GB (2,276,720,640 Bytes)|2c4e8a9575eab03a8de9835619a393b3|f9481bc29aee18f2cdfb609ea442a5eafec6ee97|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.1.22/cn_beta/20190118181131/19a393b3/update.zip>|
+|Flyme 7.9.1.8 beta|魅蓝 Note6|2019/1/8|2.12GB (2,279,007,158 Bytes)|2.12GB (2,279,014,400 Bytes)|7c5658e10844ba5a45ffb0269b20b583|3faa84a02bc594b35800adf68051550a729632a1|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.9.1.8/cn_beta/20190104195229/9b20b583/update.zip>|
+|Flyme 7.8.12.25 beta|魅蓝 Note6|2018/12/25|2.12GB (2,279,896,285 Bytes)|2.12GB (2,279,931,904 Bytes)|0fc1f33180100d896ae4ae05ba5951c2|9798a6403b4571024fb25d4ff5f52ce83ecda368|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.12.25/cn_beta/20181221192304/ba5951c2/update.zip>|
+|Flyme 7.8.12.11 beta|魅蓝 Note6|2018/12/11|2.10GB (2,262,183,712 Bytes)|2.10GB (2,262,237,184 Bytes)|dba650eb365fdac7a2d02cd6465ba744|5d2205979bf279b0c0eb2902ed739e748b2ffb70|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.12.11/cn_beta/20181210110110/465ba744/update.zip>|
+|Flyme 7.8.11.27 beta|魅蓝 Note6|2018/11/27|2.08GB (2,241,350,367 Bytes)|2.08GB (2,241,396,736 Bytes)|4695c31cc3c4638c0793c706a15e6468|2edacce457565b7c433db883fbacd68d0e5ccd80|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.11.27/cn_beta/20181123111008/a15e6468/update.zip>|
+|Flyme 7.8.11.13 beta|魅蓝 Note6|2018/11/13|2.06GB (2,218,731,763 Bytes)|2.06GB (2,218,786,816 Bytes)|1e15a6ae80f28e0be58043ce78acd755|9e41af34bb5654822e8561906376f6a17e3d5ffe|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.11.13/cn_beta/20181109154200/78acd755/update.zip>|
+|Flyme 7.8.10.30 beta|魅蓝 Note6|2018/10/30|2.06GB (2,215,295,831 Bytes)|2.06GB (2,215,313,408 Bytes)|39b672b4b8cffe8cf1fc92e6516b35e0|15ea1b56bac52071b5ad94cc0c9f4ec3e18c0707|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.10.30/cn_beta/20181026100915/516b35e0/update.zip>|
+|Flyme 7.8.10.16 beta|魅蓝 Note6|2018/10/16|2.05GB (2,206,643,421 Bytes)|2.05GB (2,206,662,656 Bytes)|e50f1607b45664fabd0ee6b4236b8608|467210dcc0cddd13e44919104f85219d5f8c07b2|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.10.16/cn_beta/20181011165338/236b8608/update.zip>|
+|Flyme 7.8.9.18 beta|魅蓝 Note6|2018/9/18|2.02GB (2,170,956,747 Bytes)|2.02GB (2,171,011,072 Bytes)|91860e46c83c3c4feee2040bda506a9d|b4a54717f76ab516ac75e8aedf37d13f4dc0c9e8|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.9.18/cn_beta/20180914153658/da506a9d/update.zip>|
+|Flyme 7.8.9.4 beta|魅蓝 Note6|2018/9/4|2.01GB (2,168,275,901 Bytes)|2.01GB (2,168,324,096 Bytes)|ba6ed8989f9866f189f00c2f706b4008|8ed1b999688d425a5d5fabd9551ade5f1b89d979|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.9.4/cn_beta/20180831150439/706b4008/update.zip>|
+|Flyme 7.8.8.21 beta|魅蓝 Note6|2018/8/21|2.01GB (2,163,610,202 Bytes)|2.01GB (2,163,671,040 Bytes)|c3d3a10cfbec7fcaf3e40565198dfaac|3ebaf8049981f65738706c1580d7fbf74f3a822c|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.8.21/cn_beta/20180816150258/198dfaac/update.zip>|
+|Flyme 7.8.8.7 beta|魅蓝 Note6|2018/8/7|1.99GB (2,146,441,555 Bytes)|1.99GB (2,146,500,608 Bytes)|40927c641679ec9c5ef7884852dc5318|0212c23cfabba805804aac0831c7797dae0a6327|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.8.7/cn_beta/20180802142533/52dc5318/update.zip>|
+|Flyme 7.8.7.24 beta|魅蓝 Note6|2018/7/24|1.99GB (2,145,604,477 Bytes)|1.99GB (2,145,648,640 Bytes)|e6cfe643df9d9d8ab129c6331bc67e82|db633d0c5a08ca12f2d7bc6e382020740eb31af4|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.7.24/cn_beta/20180720113343/1bc67e82/update.zip>|
+|Flyme 7.8.7.10 beta|魅蓝 Note6|2018/7/10|1.99GB (2,141,489,398 Bytes)|1.99GB (2,141,519,872 Bytes)|41e22df115b7546f35bb09777aebfc8e|d64c206ff2920722c200b799bd1dc3049b908c9f|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.7.10/cn_beta/20180706173256/7aebfc8e/update.zip>|
+|Flyme 7.8.6.25 beta|魅蓝 Note6|2018/6/25|1.98GB (2,128,774,532 Bytes)|1.98GB (2,128,805,888 Bytes)|606406094f4e33333e627267a9acc6a5|91938f354299a96d3dff7da0d3f264e631402ddd|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.6.25/cn_beta/20180622193959/a9acc6a5/update.zip>|
+|Flyme 7.8.6.5 beta|魅蓝 Note6|2018/6/5|1.97GB (2,121,433,011 Bytes)|1.97GB (2,121,465,856 Bytes)|1e46f636c7ce87a010cce9b92fc83ee6|db61aa234247d0395965ebd02677dd98f5f9248c|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.6.5/cn_beta/20180601151344/2fc83ee6/update.zip>|
+|Flyme 7.8.5.22 beta|魅蓝 Note6|2018/5/22|2.07GB (2,225,196,204 Bytes)|2.07GB (2,225,209,344 Bytes)|76d92fc268b2e7ac343c48518b251fc3|a0ef4ece1cc3402dda7d69c1f8d8670f5c2ef734|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.5.22/cn_beta/20180521120858/8b251fc3/update.zip>|
+|Flyme 7.8.5.8 beta|魅蓝 Note6|2018/5/8|2.07GB (2,224,805,435 Bytes)|2.07GB (2,224,816,128 Bytes)|24a38234d7a4799ac674e4f0bf7a6601|b7ed9eccd0551413676703efdca3c76cd19479b9|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.5.8/cn_beta/20180507205419/bf7a6601/update.zip>|
+|Flyme 7.8.4.22 beta|魅蓝 Note6|2018/4/22|2.04GB (2,196,850,314 Bytes)|2.04GB (2,196,897,792 Bytes)|e349fd252bdec09d110cc833c6871c2b|555617188b6becf239f4f28f39309e2dea00e9e6|<https://firmware.meizu.com/Firmware/Flyme/m6_note/7.8.4.22/cn_beta/20180419195925/c6871c2b/update.zip>|
 
 #### 海外版
 
 ##### 稳定版
-<!--魅蓝 note6|海外版|稳定版-->
+<!--魅蓝 Note6|海外版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.1.1.0G|Meizu M6 Note 国际版|2019/2/21|1.59GB (1,709,908,482 Bytes)|1.59GB (1,709,965,312 Bytes)|da031548c4c2f972ede3a18637c56f83|6b34996937cc1f64c23b75d5f001257ed2d83260|<http://dl-res.flymeos.com/Firmware/Flyme/m6_note/7.1.1.0/intl/20190219154025/37c56f83/update.zip>|
@@ -1145,81 +1152,81 @@ A repository to collect all versions of Flyme.
 |Flyme 7.0.1.0G|Meizu M6 Note 国际版|2018/8/10|1.57GB (1,695,193,679 Bytes)|1.57GB (1,695,219,712 Bytes)|1d34b21a666a10ce15016b726c4434fb|6fd61620860b2248b03be33296ccba034fc21d71|<http://dl-res.flymeos.com/Firmware/Flyme/m6_note/7.0.1.0/intl/20180809154728/6c4434fb/update.zip>|
 
 ##### 体验版
-<!--魅蓝 note6|海外版|体验版-->
+<!--魅蓝 Note6|海外版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.7.16G beta|Meizu M6 Note 国际版|2018/7/17|1.57GB (1,695,659,087 Bytes)|1.57GB (1,695,678,464 Bytes)|bdc2c53e95465becf44ccd887b4f09ed|0075820a29527a17aacb8413c1fa11e3197c7cd8|<http://dl-res.flymeos.com/Firmware/Flyme/m6_note/7.8.7.16/intl_beta/20180716184139/7b4f09ed/update.zip>|
 |Flyme 7.8.7.9G beta|Meizu M6 Note 国际版|2018/7/10|1.57GB (1,695,613,389 Bytes)|1.57GB (1,695,678,464 Bytes)|fec8b4a6aa354167082c01f22633bc43|92ed498cc3ba0ac6dc439d7598a78000e049076f|<http://dl-res.flymeos.com/Firmware/Flyme/m6_note/7.8.7.9/intl_beta/20180709170803/2633bc43/update.zip>|
 
-### 魅蓝 note5
+### 魅蓝 Note5
 
 #### 国内版
 
 ##### 稳定版
-<!--魅蓝 note5|国内版|稳定版-->
+<!--魅蓝 Note5|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.3.0.0A|魅蓝 note5|2019/5/30|||b4c9937442078cf61f112d0ed08f9bde||<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.3.0.0/cn/20190529113207/d08f9bde/update.zip>|
-|Flyme 7.2.0.0A|魅蓝 note5|2019/3/7|1.38GB (1,487,901,540 Bytes)|1.38GB (1,487,929,344 Bytes)|a5bed18354b661005ec64a5a8b596379|6704ff4d0210f5aef29ddc1330ab80830acf76ea|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.2.0.0/cn/20190307144835/8b596379/update.zip>|
-|Flyme 7.1.5.0A|魅蓝 note5|2018/12/5|1.55GB (1,668,322,411 Bytes)|1.55GB (1,668,349,952 Bytes)|07c99b5cfe57a1e35083804d95d3bacd|25ac48cec4580b3e387f502ad6daa968219d8a83|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.1.5.0/cn/20181204042916/95d3bacd/update.zip>|
-|Flyme 7.0.1.0A 修复版|魅蓝 note5|2018/6/29|1.49GB (1,601,618,096 Bytes)|1.49GB (1,601,622,016 Bytes)|567697489855c41ce2deebe8855691a8|ae07596afa2090fbd1cea2a86ef2c0cfa2a40340|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.0.1.0/cn/20180629145452/855691a8/update.zip>|
-|Flyme 7.0.1.0A|魅蓝 note5|2018/6/28|1.49GB (1,601,647,277 Bytes)|1.49GB (1,601,699,840 Bytes)|74f64c57e066ce907edec622aaff1c49|dfac4d273daf26dd397e0d7a41b44771eb034c51|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.0.1.0/cn/20180628171500/aaff1c49/update.zip>|
+|Flyme 7.3.0.0A|魅蓝 Note5|2019/5/30|||b4c9937442078cf61f112d0ed08f9bde||<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.3.0.0/cn/20190529113207/d08f9bde/update.zip>|
+|Flyme 7.2.0.0A|魅蓝 Note5|2019/3/7|1.38GB (1,487,901,540 Bytes)|1.38GB (1,487,929,344 Bytes)|a5bed18354b661005ec64a5a8b596379|6704ff4d0210f5aef29ddc1330ab80830acf76ea|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.2.0.0/cn/20190307144835/8b596379/update.zip>|
+|Flyme 7.1.5.0A|魅蓝 Note5|2018/12/5|1.55GB (1,668,322,411 Bytes)|1.55GB (1,668,349,952 Bytes)|07c99b5cfe57a1e35083804d95d3bacd|25ac48cec4580b3e387f502ad6daa968219d8a83|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.1.5.0/cn/20181204042916/95d3bacd/update.zip>|
+|Flyme 7.0.1.0A 修复版|魅蓝 Note5|2018/6/29|1.49GB (1,601,618,096 Bytes)|1.49GB (1,601,622,016 Bytes)|567697489855c41ce2deebe8855691a8|ae07596afa2090fbd1cea2a86ef2c0cfa2a40340|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.0.1.0/cn/20180629145452/855691a8/update.zip>|
+|Flyme 7.0.1.0A|魅蓝 Note5|2018/6/28|1.49GB (1,601,647,277 Bytes)|1.49GB (1,601,699,840 Bytes)|74f64c57e066ce907edec622aaff1c49|dfac4d273daf26dd397e0d7a41b44771eb034c51|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.0.1.0/cn/20180628171500/aaff1c49/update.zip>|
 
 ##### 体验版
-<!--魅蓝 note5|国内版|体验版-->
+<!--魅蓝 Note5|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.8.6.25 beta|魅蓝 note5|2018/6/25|1.49GB (1,601,144,075 Bytes)|1.49GB (1,601,175,552 Bytes)|df97a15091db063a5eb35a3c245c50df|3919e26129d255215ecfe8c63aa566078ac6c775|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.6.25/cn_beta/20180622194006/245c50df/update.zip>|
-|Flyme 7.8.6.5 beta|魅蓝 note5|2018/6/5|1.49GB (1,601,109,386 Bytes)|1.49GB (1,601,110,016 Bytes)|ba05da45ff199e01cad62aaa98825c31|c0d9abc14e955678465e444aec33f80ba75745ce|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.6.5/cn_beta/20180601104228/98825c31/update.zip>|
-|Flyme 7.8.5.22 beta|魅蓝 note5|2018/5/22|1.47GB (1,583,604,601 Bytes)|1.47GB (1,583,611,904 Bytes)|f1c6b003f0e9bda6b99978d9ae4c9de9|234a582016ea43093b8131c7cf894bb0ca8ceaeb|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.5.22/cn_beta/20180520235236/ae4c9de9/update.zip>|
-|Flyme 7.8.5.8 beta|魅蓝 note5|2018/5/8|1.47GB (1,583,202,869 Bytes)|1.47GB (1,583,218,688 Bytes)|373e935060b5fe603fdd5c493f059879|e3c9cee7ef9f857d58f9d787c6bf1a266f91df31|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.5.8/cn_beta/20180507205540/3f059879/update.zip>|
-|Flyme 7.8.4.22 beta|魅蓝 note5|2018/4/22|1.46GB (1,570,262,326 Bytes)|1.46GB (1,570,308,096 Bytes)|61b1dfb9abadfed3ebbc09a53b67bf13|9113c3305a4cd46c7af9fac5255e0d6ce8226fb8|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.4.22/cn_beta/20180419195219/3b67bf13/update.zip>|
+|Flyme 7.8.6.25 beta|魅蓝 Note5|2018/6/25|1.49GB (1,601,144,075 Bytes)|1.49GB (1,601,175,552 Bytes)|df97a15091db063a5eb35a3c245c50df|3919e26129d255215ecfe8c63aa566078ac6c775|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.6.25/cn_beta/20180622194006/245c50df/update.zip>|
+|Flyme 7.8.6.5 beta|魅蓝 Note5|2018/6/5|1.49GB (1,601,109,386 Bytes)|1.49GB (1,601,110,016 Bytes)|ba05da45ff199e01cad62aaa98825c31|c0d9abc14e955678465e444aec33f80ba75745ce|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.6.5/cn_beta/20180601104228/98825c31/update.zip>|
+|Flyme 7.8.5.22 beta|魅蓝 Note5|2018/5/22|1.47GB (1,583,604,601 Bytes)|1.47GB (1,583,611,904 Bytes)|f1c6b003f0e9bda6b99978d9ae4c9de9|234a582016ea43093b8131c7cf894bb0ca8ceaeb|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.5.22/cn_beta/20180520235236/ae4c9de9/update.zip>|
+|Flyme 7.8.5.8 beta|魅蓝 Note5|2018/5/8|1.47GB (1,583,202,869 Bytes)|1.47GB (1,583,218,688 Bytes)|373e935060b5fe603fdd5c493f059879|e3c9cee7ef9f857d58f9d787c6bf1a266f91df31|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.5.8/cn_beta/20180507205540/3f059879/update.zip>|
+|Flyme 7.8.4.22 beta|魅蓝 Note5|2018/4/22|1.46GB (1,570,262,326 Bytes)|1.46GB (1,570,308,096 Bytes)|61b1dfb9abadfed3ebbc09a53b67bf13|9113c3305a4cd46c7af9fac5255e0d6ce8226fb8|<https://firmware.meizu.com/Firmware/Flyme/m5_note/7.8.4.22/cn_beta/20180419195219/3b67bf13/update.zip>|
 
 ##### 内测版
-<!--魅蓝 note5|国内版|内测版-->
+<!--魅蓝 Note5|国内版|内测版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.8.4.22 daily|魅蓝 note5|2018/4/22|||||<https://download.meizu.com/Firmware/Flyme/m5_note/7.8.4.22/cn_daily/20180419194101/eaecdc97/update.zip>|
+|Flyme 7.8.4.22 daily|魅蓝 Note5|2018/4/22|||||<https://download.meizu.com/Firmware/Flyme/m5_note/7.8.4.22/cn_daily/20180419194101/eaecdc97/update.zip>|
 
 #### 海外版
 
 ##### 稳定版
-<!--魅蓝 note5|海外版|稳定版-->
+<!--魅蓝 Note5|海外版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.1.0.0G|Meizu M5 Note 国际版|2019/4/10|1.02GB (1,096,041,260 Bytes)|1.02GB (1,096,089,600 Bytes)|9ae5b022fc9fe1a7cbfefb4a93b77050|25ff93ea3ed649df31365b18997c482e4363deae|<http://dl-res.flymeos.com/Firmware/Flyme/m5_note/7.1.0.0/intl/20190313150128/93b77050/update.zip>|
 |Flyme 7.0.0.0G|Meizu M5 Note 国际版|2018/6/19|1.02GB (1,096,009,562 Bytes)|1.02GB (1,096,024,064 Bytes)|5acdc88e9ed1ab983c173a6559104ea6|deeee14268bcfdeb5417acda522ba3a544c81300|<http://dl-res.flymeos.com/Firmware/Flyme/m5_note/7.0.0.0/intl/20180614114838/59104ea6/update.zip>|
 
 ##### 体验版
-<!--魅蓝 note5|海外版|体验版-->
+<!--魅蓝 Note5|海外版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 |Flyme 7.8.6.7G beta|Meizu M5 Note 国际版|2018/6/8|1.05GB (1,133,214,782 Bytes)|1.05GB (1,133,248,512 Bytes)|09311f463d61516133aaa3750c24edc1|06f48321f750383ec29b0df5d126448a21e48840|<http://dl-res.flymeos.com/Firmware/Flyme/m5_note/7.8.6.7/intl_beta/20180607175325/0c24edc1/update.zip>|
 |Flyme 7.8.5.30G beta|Meizu M5 Note 国际版|2018/6/1|1.02GB (1,101,754,429 Bytes)|1.02GB (1,101,791,232 Bytes)|9ee87dc0bbf65ba6d9e9914da8672bba|271e7c47ff569b1966685608dd8dd9d12d7d1ff3|<http://dl-res.flymeos.com/Firmware/Flyme/m5_note/7.8.5.30/intl_beta/20180530120319/a8672bba/update.zip>|
 |Flyme 7.8.5.22G beta|Meizu M5 Note 国际版|2018/5/29|1.02GB (1,101,365,399 Bytes)|1.02GB (1,101,398,016 Bytes)|1437aa34e746be29eee373bcc1c83509|1836aaea60258176dddf80551360e7e730557bee|<http://dl-res.flymeos.com/Firmware/Flyme/m5_note/7.8.5.22/intl_beta/20180522163323/c1c83509/update.zip>|
 
-### 魅蓝 note3
+### 魅蓝 Note3
 
 #### 国内版
 
 ##### 稳定版
-<!--魅蓝 note3|国内版|稳定版-->
+<!--魅蓝 Note3|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
 <!--
-|Flyme 6.3.0.3A 修复版|魅蓝 note3|2019/3/26|1.40GB (1,504,948,713 Bytes)|1.40GB (1,504,968,704 Bytes)|c98bbeb1c6eab1766bf82ee2fab15ff8|02c99c5c9880cfd5588c65b49c5377725f69ec62|<https://firmware.meizu.com/Firmware/Flyme/m3_note/6.3.0.3/cn/20190325170724/fab15ff8/update.zip>|
-|Flyme 6.3.0.3A|魅蓝 note3|2019/3/22|1.41GB (1,514,377,415 Bytes)|1.41GB (1,514,405,888 Bytes)|752d848ce6d831e0b8e67b8a19e02d0f|6f9d50d942b335bf2e6a6adfcab9994b25352458|<https://firmware.meizu.com/Firmware/Flyme/m3_note/6.3.0.3/cn/20190320165921/19e02d0f/update.zip>|
+|Flyme 6.3.0.3A 修复版|魅蓝 Note3|2019/3/26|1.40GB (1,504,948,713 Bytes)|1.40GB (1,504,968,704 Bytes)|c98bbeb1c6eab1766bf82ee2fab15ff8|02c99c5c9880cfd5588c65b49c5377725f69ec62|<https://firmware.meizu.com/Firmware/Flyme/m3_note/6.3.0.3/cn/20190325170724/fab15ff8/update.zip>|
+|Flyme 6.3.0.3A|魅蓝 Note3|2019/3/22|1.41GB (1,514,377,415 Bytes)|1.41GB (1,514,405,888 Bytes)|752d848ce6d831e0b8e67b8a19e02d0f|6f9d50d942b335bf2e6a6adfcab9994b25352458|<https://firmware.meizu.com/Firmware/Flyme/m3_note/6.3.0.3/cn/20190320165921/19e02d0f/update.zip>|
 -->
 
 ##### 体验版
-<!--魅蓝 note3|国内版|体验版-->
+<!--魅蓝 Note3|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
-|Flyme 7.8.6.25 beta|魅蓝 note3|2018/6/25|1.48GB (1,595,748,680 Bytes)|1.48GB (1,595,801,600 Bytes)|164b6ed9d1ea99421993b2d7929e1be2|9817ae4f9b19a2949f5145501201b49d37abda23|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.6.25/cn_beta/20180623011431/929e1be2/update.zip>|
-|Flyme 7.8.6.5 beta|魅蓝 note3|2018/6/5|1.48GB (1,595,445,880 Bytes)|1.48GB (1,595,473,920 Bytes)|a7b0aa2452cbeee9c977a8f1237d03aa|1bea5c6efc1ba1e536a9cee8c3726e7104635e1c|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.6.5/cn_beta/20180601111905/237d03aa/update.zip>|
-|Flyme 7.8.5.22 beta|魅蓝 note3|2018/5/22|1.46GB (1,573,690,541 Bytes)|1.46GB (1,573,715,968 Bytes)|bd6d6aab2c7e10ad447127ad54f06db8|ad15bc4de3c9a7fbed56586c01eea4bfd92fedc9|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.5.22/cn_beta/20180521141857/54f06db8/update.zip>|
-|Flyme 7.8.5.8 beta|魅蓝 note3|2018/5/8|1.46GB (1,576,820,585 Bytes)|1.46GB (1,576,861,696 Bytes)|0180c435fd855fef90d5fea2f38d0b49|97a99d6100b1475eebbee59c3d56639c6a986b8d|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.5.8/cn_beta/20180507205605/f38d0b49/update.zip>|
-|Flyme 7.8.4.22 beta|魅蓝 note3|2018/4/22|1.45GB (1,563,923,008 Bytes)|1.45GB (1,563,951,104 Bytes)|90e696d9971b69083e34808a61af655c|85877d30c58c9e23b811bd79627befe395c6cec0|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.4.22/cn_beta/20180420144440/61af655c/update.zip>|
+|Flyme 7.8.6.25 beta|魅蓝 Note3|2018/6/25|1.48GB (1,595,748,680 Bytes)|1.48GB (1,595,801,600 Bytes)|164b6ed9d1ea99421993b2d7929e1be2|9817ae4f9b19a2949f5145501201b49d37abda23|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.6.25/cn_beta/20180623011431/929e1be2/update.zip>|
+|Flyme 7.8.6.5 beta|魅蓝 Note3|2018/6/5|1.48GB (1,595,445,880 Bytes)|1.48GB (1,595,473,920 Bytes)|a7b0aa2452cbeee9c977a8f1237d03aa|1bea5c6efc1ba1e536a9cee8c3726e7104635e1c|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.6.5/cn_beta/20180601111905/237d03aa/update.zip>|
+|Flyme 7.8.5.22 beta|魅蓝 Note3|2018/5/22|1.46GB (1,573,690,541 Bytes)|1.46GB (1,573,715,968 Bytes)|bd6d6aab2c7e10ad447127ad54f06db8|ad15bc4de3c9a7fbed56586c01eea4bfd92fedc9|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.5.22/cn_beta/20180521141857/54f06db8/update.zip>|
+|Flyme 7.8.5.8 beta|魅蓝 Note3|2018/5/8|1.46GB (1,576,820,585 Bytes)|1.46GB (1,576,861,696 Bytes)|0180c435fd855fef90d5fea2f38d0b49|97a99d6100b1475eebbee59c3d56639c6a986b8d|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.5.8/cn_beta/20180507205605/f38d0b49/update.zip>|
+|Flyme 7.8.4.22 beta|魅蓝 Note3|2018/4/22|1.45GB (1,563,923,008 Bytes)|1.45GB (1,563,951,104 Bytes)|90e696d9971b69083e34808a61af655c|85877d30c58c9e23b811bd79627befe395c6cec0|<https://firmware.meizu.com/Firmware/Flyme/m3_note/7.8.4.22/cn_beta/20180420144440/61af655c/update.zip>|
 
 ### 魅蓝 note2
 
