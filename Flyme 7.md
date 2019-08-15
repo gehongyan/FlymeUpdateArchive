@@ -843,6 +843,8 @@ A repository to collect all versions of Flyme.
 <!--Note8|海外版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 7.1.6.1RU|Meizu Note8 俄罗斯版|2019/8/13|2.10GB (2,259,073,633 Bytes)|2.10GB (2,259,075,072 Bytes)|d99385c8daba062bfba081a0e0934b1f|c0ad49eb36c3267776d7f394b841c1c7fb1d3642|<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.1/ru/20190731102629/e0934b1f/update.zip>|
+|Flyme 7.1.6.1EU|Meizu Note8 欧盟版|2019/8/9|1.98GB (2,129,426,557 Bytes)|1.98GB (2,129,428,480 Bytes)|c7fa00a82e38fa6bf09eb1867bc7ce34|e773c07c1b508adde5af86557de354ed12c3ecf6|<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.1/cn/20190731102703/7bc7ce34/update.zip>|
 |Flyme 7.1.6.1G|Meizu Note8 国际版|2019/6/18|||||<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.1/intl/20190611105505/c563afb1/update.zip>|
 |Flyme 7.1.6.0EU|Meizu Note8 欧盟版|2019/1/18|1.93GB (2,079,899,063 Bytes)|1.93GB (2,079,916,032 Bytes)|a9e50bd894b2d79fa50d058a3dd5325c|25d27d8ca123e8f53c7548c3172a9a155dd42a7d|<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.0/cn/20190118154658/3dd5325c/update.zip>|
 |Flyme 7.1.6.0RU|Meizu Note8 俄罗斯版|2018/11/9|2.00GB (2,155,796,699 Bytes)|2.00GB (2,155,806,720 Bytes)|306b85b385f7e54bd95bccae0b707b6f|abea004754a3b84d75137b2920614dd8d7e1ec47|<http://dl-res.flymeos.com/Firmware/Flyme/note8/7.1.6.0/ru/20181109142337/0b707b6f/update.zip>|
