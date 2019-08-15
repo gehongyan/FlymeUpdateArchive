@@ -174,6 +174,7 @@ A repository to collect all versions of Flyme.
 <!--16Xs|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 7.3.1.1A|16Xs|2019/7/26|2.31GB (2,489,866,765 Bytes)|2.31GB (2,489,868,288 Bytes)|d06503fbd8198bca13cf3a321a1d3f7a|f3b3491446946d0bc06090040835f8f517a18cd5|<https://firmware.meizu.com/Firmware/Flyme/16xs/7.3.1.1/cn/20190722162400/1a1d3f7a/update.zip>|
 |Flyme 7.3.1.0A|16Xs|2019/6/10|||49d105502b46d9431f8df24b04c4e662||<https://firmware.meizu.com/Firmware/Flyme/m1926/7.3.1.0/cn/20190530154500/04c4e662/update.zip>|
 
 ##### 体验版
@@ -1303,6 +1304,7 @@ A repository to collect all versions of Flyme.
 <!--魅蓝 S6|海外版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 7.1.3.0G|Meizu M6s 国际版|2019/8/1|1.30GB (1,401,777,720 Bytes)|1.30GB (1,401,778,176 Bytes)|8fd298b6fb1ae5dbeba7b01e8022e811|3cdcdc4a2140dd228a24de70b1d54dc0ad3790aa|<http://dl-res.flymeos.com/Firmware/Flyme/s6/7.1.3.0/intl/20190725172609/8022e811/update.zip>|
 |Flyme 7.1.1.0G|Meizu M6s 国际版|2019/3/27|1.30GB (1,400,769,465 Bytes)|1.30GB (1,400,832,000 Bytes)|bd99fd52f317fa96fac8ede0ded4da0e|0a53318466d280dd79a7173e6cd667ad17ede74a|<http://dl-res.flymeos.com/Firmware/Flyme/s6/7.1.1.0/intl/20190306141739/ded4da0e/update.zip>|
 |Flyme 7.1.0.0G|Meizu M6s 国际版|2018/11/29|1.30GB (1,400,467,192 Bytes)|1.30GB (1,400,504,320 Bytes)|4ba472527f8bb2abab58185bd74295c6|92ae13c7dbbe58b13d8754b4132d11a4899fa929|<http://dl-res.flymeos.com/Firmware/Flyme/s6/7.1.0.0/intl/20181123163319/d74295c6/update.zip>|
 |Flyme 7.0.1.0G|Meizu M6s 国际版|2018/8/28|1.29GB (1,389,841,479 Bytes)|1.29GB (1,389,842,432 Bytes)|8476dfe216503611e7bfcb3896fe9e41|c12a09a828ddb5344b88507c45021c9aa7c3c998|<http://dl-res.flymeos.com/Firmware/Flyme/s6/7.0.1.0/intl/20180828124628/96fe9e41/update.zip>|
