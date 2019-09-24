@@ -5,6 +5,7 @@ A repository to collect all versions of Flyme.
 ## 目录
 
 - [数字系列](#数字系列)
+  - [16s Pro](#16s-pro)
   - [16s](#16s)
   - [16th Plus](#16th-plus)
   - [16th](#16th)
@@ -56,6 +57,15 @@ A repository to collect all versions of Flyme.
 
 ## 数字系列
 
+### 16s Pro
+
+#### 国内版
+
+##### 稳定版
+<!--16s Pro|国内版|稳定版-->
+|Flyme 7.3.4.1A|16s Pro|2019/9/18|2.18GB (2,346,823,597 Bytes)|2.18GB (2,346,823,680 Bytes)|701a270244c791f9e860165461c2d6be|40e819c72d813ad4e86a3b96fb095a49d6dd2474|<https://firmware.meizu.com/Firmware/Flyme/16s_Pro/7.3.4.1/cn/20190905203506/61c2d6be/update.zip>|
+|Flyme 7.3.4.0A|16s Pro|2019/9/2|2.18GB (2,346,271,452 Bytes)|2.18GB (2,346,274,816 Bytes)|ada67037c2f91e19e70125f88904f903|e913bcbb3b56a76b6cc0cd0bc780f1b7ca7f3881|<https://firmware.meizu.com/Firmware/Flyme/m1973/7.3.4.0/cn/20190815155840/8904f903/update.zip>|
+
 ### 16s
 
 #### 国内版
@@ -64,6 +74,8 @@ A repository to collect all versions of Flyme.
 <!--16s|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 7.3.0.2A 修复版 1|16s|2019/9/9|2.32GB (2,492,208,942 Bytes)|2.32GB (2,492,211,200 Bytes)|61a8164d22b30810551dc62b1411f6fa|6c056ce326950ac78e7e4d58ad824a544f465383|<https://firmware.meizu.com/Firmware/Flyme/16s/7.3.0.2/cn/20190903124811/1411f6fa/update.zip>|
+|Flyme 7.3.0.2A|16s|2019/8/30|2.32GB (2,492,184,373 Bytes)|2.32GB (2,492,186,624 Bytes)|ec16aa664c076b0cd3d50c0a241ffd87|9a2ebe833960472106b61cf6538fe5fca492e264|<https://firmware.meizu.com/Firmware/Flyme/16s/7.3.0.2/cn/20190828104723/241ffd87/update.zip>|
 |Flyme 7.3.0.1A|16s|2019/7/12|2.36GB (2,540,121,342 Bytes)|2.36GB (2,540,175,360 Bytes)|8ec2154b7defb1c4b6f3d58cfd6c58bb|16ee184520c1671bbbcfa3c38c496a404c0ca295|<https://firmware.meizu.com/Firmware/Flyme/16s/7.3.0.1/cn/20190709160216/fd6c58bb/update.zip>|
 |Flyme 7.3.0.0A|16s|2019/5/24|||811aace5ae666071beae501d5e1384e1||<https://firmware.meizu.com/Firmware/Flyme/16s/7.3.0.0/cn/20190523171249/5e1384e1/update.zip>|
 |Flyme 7.2.3.0A|16s|2019/4/30|2.37GB (2,548,949,306 Bytes)|2.37GB (2,548,957,184 Bytes)|3112b50d1d0825feb1df51a448b631cb|b5557d946f040d20a90792b6a6f822b8b8dea34f|<https://firmware.meizu.com/Firmware/Flyme/16s/7.2.3.0/cn/20190430154138/48b631cb/update.zip>|
@@ -176,6 +188,7 @@ A repository to collect all versions of Flyme.
 <!--16Xs|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 7.3.1.2A|16Xs|2019/9/11|2.31GB (2,490,001,566 Bytes)|2.31GB (2,490,003,456 Bytes)|9f3ff2e92bd1ee3fd72edfa8511c406c|c0ea8e1ba8466fe4a7e83926698bb338bd753f1f|<https://firmware.meizu.com/Firmware/Flyme/16xs/7.3.1.2/cn/20190911204521/511c406c/update.zip>|
 |Flyme 7.3.1.1A|16Xs|2019/7/26|2.31GB (2,489,866,765 Bytes)|2.31GB (2,489,868,288 Bytes)|d06503fbd8198bca13cf3a321a1d3f7a|f3b3491446946d0bc06090040835f8f517a18cd5|<https://firmware.meizu.com/Firmware/Flyme/16xs/7.3.1.1/cn/20190722162400/1a1d3f7a/update.zip>|
 |Flyme 7.3.1.0A|16Xs|2019/6/10|||49d105502b46d9431f8df24b04c4e662||<https://firmware.meizu.com/Firmware/Flyme/m1926/7.3.1.0/cn/20190530154500/04c4e662/update.zip>|
 
@@ -804,6 +817,7 @@ A repository to collect all versions of Flyme.
 <!--Note9|国内版|稳定版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 7.3.0.0A 修复版 1|Note9|2019/9/4|2.29GB (2,462,219,858 Bytes)|2.29GB (2,462,220,288 Bytes)|b03026496a3db387646beeb4556e321e|2d487ad331665bb7bea6cbb0e79bfa6613e1bd73|<https://firmware.meizu.com/Firmware/Flyme/note9/7.3.0.0/cn/20190827202803/556e321e/update.zip>|
 |Flyme 7.3.0.0A|Note9|2019/8/23|2.29GB (2,462,265,806 Bytes)|2.29GB (2,462,269,440 Bytes)|de1b6af8023d137b4626620372a535c1|62e26f7f6ec662c9f6e76f03b36f0b88cfe254f8|<https://firmware.meizu.com/Firmware/Flyme/note9/7.3.0.0/cn/20190816174734/72a535c1/update.zip>|
 |Flyme 7.2.2.1A|Note9|2019/5/13|2.29GB (2,459,016,512 Bytes)|2.29GB (2,459,041,792 Bytes)|35d155fd8fdbc93353b05b9906cda626|404f4a4c0891ee4064f1d0b1a24bedbf96f6e999|<https://firmware.meizu.com/Firmware/Flyme/note9/7.2.2.1/cn/20190507103451/06cda626/update.zip>|
 |Flyme 7.2.2.0A 修复版 2|Note9|2019/4/3|2.28GB (2,452,878,978 Bytes)|2.28GB (2,452,881,408 Bytes)|336a26ed1c4c9891da36ff6c48ea81a0|a0f3e91156d272e41151b8396c4cf0b108abeeea|<https://firmware.meizu.com/Firmware/Flyme/note9/7.2.2.0/cn/20190402110540/48ea81a0/update.zip>|

@@ -54,6 +54,7 @@ A repository to collect all versions of Flyme.
 <!--16s Pro|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|16s Pro|2019/9/24|||733a5bffe25f1a2a918294549dd16dd5||<https://firmware.meizu.com/Firmware/Flyme/16s_Pro/8.9.9.24/cn_beta/20190920171854/9dd16dd5/update.zip>|
 
 #### 海外版
 
@@ -80,6 +81,7 @@ A repository to collect all versions of Flyme.
 <!--16s|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|16s|2019/9/24|||3cec04067a97ec9dfea8e9b125505747||<https://firmware.meizu.com/Firmware/Flyme/16s/8.9.9.24/cn_beta/20190920171632/25505747/update.zip>|
 
 #### 海外版
 
@@ -106,6 +108,7 @@ A repository to collect all versions of Flyme.
 <!--16th Plus|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|16th Plus|2019/9/24|||4fa55c466bb7d961ae520ab1a0358b96||<https://firmware.meizu.com/Firmware/Flyme/16th_Plus/8.9.9.24/cn_beta/20190920170256/a0358b96/update.zip>|
 
 #### 海外版
 
@@ -132,6 +135,7 @@ A repository to collect all versions of Flyme.
 <!--16th|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|16th|2019/9/24|||3ee740df8235b51f9757dba473301022||<https://firmware.meizu.com/Firmware/Flyme/16th/8.9.9.24/cn_beta/20190920165828/73301022/update.zip>|
 
 ##### 内测版
 <!--16th|国内版|内测版-->
@@ -190,6 +194,7 @@ A repository to collect all versions of Flyme.
 <!--16 X|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|16 X|2019/9/24|||adcf32c15a1df97519757697e579e429||<https://firmware.meizu.com/Firmware/Flyme/16/8.9.9.24/cn_beta/20190920170827/e579e429/update.zip>|
 
 #### 海外版
 
@@ -216,6 +221,7 @@ A repository to collect all versions of Flyme.
 <!--15 Plus|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|15 Plus|2019/9/24|||811503d922589568b14d5351b6ba253c||<https://firmware.meizu.com/Firmware/Flyme/15_Plus/8.9.9.24/cn_beta/20190920154601/b6ba253c/update.zip>|
 
 #### 海外版
 
@@ -242,6 +248,7 @@ A repository to collect all versions of Flyme.
 <!--15|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|15|2019/9/24|||6d088421c3cc5a05c6d091cfec9518c2||<https://firmware.meizu.com/Firmware/Flyme/15/8.9.9.24/cn_beta/20190920154015/ec9518c2/update.zip>|
 
 #### 海外版
 
@@ -296,6 +303,7 @@ A repository to collect all versions of Flyme.
 <!--PRO 7 Plus|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|PRO 7 Plus|2019/9/24|||6a741ed8e08a918d1567460ee7c1ea1b||<https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/8.9.9.24/cn_beta/20190920155404/e7c1ea1b/update.zip>|
 
 #### 海外版
 
@@ -322,6 +330,7 @@ A repository to collect all versions of Flyme.
 <!--PRO 7 高配版|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|PRO 7 高配版|2019/9/24|||65967fd909f587299c67711e17f48253||<https://firmware.meizu.com/Firmware/Flyme/PRO7H/8.9.9.24/cn_beta/20190920155205/17f48253/update.zip>|
 
 #### 海外版
 
@@ -640,6 +649,7 @@ A repository to collect all versions of Flyme.
 <!--魅蓝 Note6|国内版|体验版-->
 |版本|机型|时间|大小|占用空间|MD5|SHA1|下载链接|
 |----|----|----|----|----|----|----|----|
+|Flyme 8.9.9.24 beta|魅蓝 Note6|2019/9/24|||15b75887201e7200f01579a3fbc2b888||<https://firmware.meizu.com/Firmware/Flyme/m6_note/8.9.9.24/cn_beta/20190920155004/fbc2b888/update.zip>|
 
 #### 海外版
 
